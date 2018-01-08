@@ -805,12 +805,24 @@ blockquote {
 #header9-5 .tab-pane {
   color: #000;
 }
+#header9-5 .mbr-section-title B {
+  color: #333333;
+}
+#header9-5 .mbr-section-title {
+  letter-spacing: 4px;
+}
 #content3-9 .mbr-section-title,
 #content3-9 .mbr-section-subtitle {
   text-align: center;
 }
 #content3-9 H3 {
   text-align: right;
+}
+#content3-9 B {
+  color: #333333;
+}
+#content3-9 .mbr-section-title {
+  letter-spacing: 3px;
 }
 #features7-8 .lead {
   color: #9fa3a7;
@@ -859,12 +871,14 @@ blockquote {
   color: #242424;
   font-weight: bold;
   font-size: 46px;
-  padding-top: 100px;
+  letter-spacing: 3px;
+  padding-top: 130px;
 }
 #header7-r .mbr-section-title-2 {
   color: #242424;
   font-weight: bold;
   font-size: 46px;
+  letter-spacing: 3px;
   padding-top: 0;
 }
 #header7-r li {
@@ -880,8 +894,7 @@ blockquote {
   color: #175a86;
 }
 #content3-s .mbr-section-title {
-  letter-spacing: 4px;
-  font-weight: bold;
+  letter-spacing: 6px;
   font-size: 45px;
 }
 #form1-v .mbr-section-subtitle {
@@ -892,10 +905,10 @@ blockquote {
 }
 #form1-v .mbr-section-title {
   color: #ffffff;
+  text-align: center;
 }
 #form1-v .mbr-section-title {
   letter-spacing: 6px;
-  font-weight: bold;
   font-size: 45px;
   padding-bottom: 40px;
 }

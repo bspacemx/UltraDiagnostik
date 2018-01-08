@@ -193,6 +193,9 @@
             },
             ".mbr-section-title, .tab-pane": {
               "color": "#000"
+            },
+            ".mbr-section-title B": {
+              "color": "#333333"
             }
           },
           "_params": {
@@ -215,7 +218,7 @@
             "overlayOpacity": 0.9
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "<br>¿Quiénes somos?",
+          "title": "<br><b>¿QUIÉNES SOMOS?</b>",
           "text": "Fundada en el año 2010 por el Dr. José Antonio Hernández Nolasco, Ultra Diagnostik es\nuna empresa que ofrece servicios de radiología e imagen de alta calidad a precios\n<br>accesibles. Somos conscientes de la situación económica de la mayoría de nuestros\npacientes, por lo que buscamos ser la opción más accesible para ellos y por medio de la\ncual reciban la calidad que merecen. &nbsp;Todos nuestros estudios son realizados por personal altamente capacitado, especializado,\ncertificado por los consejos mexicanos de su especialidad y con una amplia trayectoria y\nexperiencia en sus ramos.",
           "title1": "Nuestro compromiso contigo",
           "title2": "Nuestros valores",
@@ -343,7 +346,8 @@
             "Theme"
           ],
           "_name": "header9",
-          "_anchor": "header9-5"
+          "_anchor": "header9-5",
+          "_customCSS": ".mbr-section-title {\n    letter-spacing: 4px;\n}"
         },
         {
           "_styles": {
@@ -352,6 +356,9 @@
             },
             "H3": {
               "text-align": "right"
+            },
+            "B": {
+              "color": "#333333"
             }
           },
           "_params": {
@@ -360,13 +367,14 @@
             "paddingBottom": "0",
             "bgColor": "#ecf0f1"
           },
-          "title": "Nuestro Equipo",
+          "title": "<b>NUESTRO EQUIPO</b>",
           "meta": "By <b>John Smith</b> posted July 20, 2016",
           "_tags": [
             "Theme"
           ],
           "_name": "content3",
-          "_anchor": "content3-9"
+          "_anchor": "content3-9",
+          "_customCSS": ".mbr-section-title {\n    letter-spacing: 3px;\n}"
         },
         {
           "_styles": {
@@ -595,8 +603,8 @@
           ],
           "_name": "header7",
           "_anchor": "header7-r",
-          "_customCSS": "@import url(undefined);\n.mbr-section-subtitle {\n  text-transform: uppercase;\n  color: #9fa3a7;\n}\n\n.mbr-section-hero {\n    background-image: linear-gradient(#fff,#f0f0f0);\n}\n\n.mbr-section-text {\n  color: #9fa3a7;\n}\n.mbr-section-title {\n  color: #242424;\n  font-weight: bold;\n  font-size: 46px;\n  padding-top: 100px;\n}\n\n.mbr-section-title-2 {\n  color: #242424;\n  font-weight: bold;\n  font-size: 46px;\n  padding-top: 0;\n}\n\nli {\n    list-style-type: circle;\n    padding-top: 12px;\n    color: #9e9e9e;\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header7 mbr-section-with-arrow\" data-rv-view=\"231\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-md-6 col-lg-5 col-lg-offset-1 text-xs-left content-size\">\n                    \n                    <!--\n                    <p class=\"mbr-section-subtitle lead subtitle mbr-editable-content\">mobirise builder</p>-->\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" style=\"color: rgb(51, 51, 51);\" code-editable-id=\"288\">Nuestros servicios</h1>\n                    <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"289\">\n                        </p><ol>\n                            <li>Ultrasonido obstetrico</li>\n                            <li>Ultrasonido pelvico ginecologico</li>\n                            <li>Ultrasonido vesicoprostatico</li>\n                            <li>Ultrasonido renal</li>\n                            <li>Ultrasonido de higado y vias biliares</li>\n                            <li>Ultrasonido abdomen superior</li>\n                            <li>Ultrasonido abdominal completo</li>\n                        </ol>\n                    \n                     <h1 class=\"mbr-section-title-2 display-1 mbr-editable-content\" style=\"color: rgb(51, 51, 51);\" code-editable-id=\"290\">En breve ofreceremos</h1>\n                    <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"291\">\n                        </p><ol>\n                            <li>Ultrasonido musculoesqueletico</li>\n                            <li>Ultrasonido de mama</li>\n                            <li>Ultrasonido de tiroides</li>\n                            <li>Ultrasonido de partes blandas</li>\n                            <li>Ultrasonido doppler</li>\n                            <li>Biopsia guiada por ultrasonido</li>\n                            <li>Radiologia convencional y contrastada y mastografia</li>\n                        </ol>\n                    <!-- <div class=\"mbr-section-btn\"><a class=\"btn btn-primary mbr-editable-button\" href=\"https://mobirise.com\">learn more</a></div> -->\n                </div>\n\n                <div class=\"col-xs-12 col-md-6 padding-left-0 padding-right-0 image-size\">\n                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/ultrasonido-obstetrico-5760x3840.jpg\"></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown.png\">\n        </a>\n    </div>\n\n</section>",
+          "_customCSS": "@import url(undefined);\n.mbr-section-subtitle {\n  text-transform: uppercase;\n  color: #9fa3a7;\n}\n\n.mbr-section-hero {\n    background-image: linear-gradient(#fff,#f0f0f0);\n}\n\n.mbr-section-text {\n  color: #9fa3a7;\n}\n.mbr-section-title {\n  color: #242424;\n  font-weight: bold;\n  font-size: 46px;\n  letter-spacing: 3px;\n  padding-top: 130px;\n}\n\n.mbr-section-title-2 {\n  color: #242424;\n  font-weight: bold;\n  font-size: 46px;\n  letter-spacing: 3px;\n  padding-top: 0;\n}\n\nli {\n    list-style-type: circle;\n    padding-top: 12px;\n    color: #9e9e9e;\n}",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header7 mbr-section-with-arrow\" data-rv-view=\"231\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-md-6 col-lg-5 col-lg-offset-1 text-xs-left content-size\">\n                    \n                    <!--\n                    <p class=\"mbr-section-subtitle lead subtitle mbr-editable-content\">mobirise builder</p>-->\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" style=\"color: rgb(23, 90, 134); font-size: 30px;\" code-editable-id=\"380\">NUESTROS SERVICIOS</h1>\n                    <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"381\">\n                        </p><ol>\n                            <li>Ultrasonido obstetrico</li>\n                            <li>Ultrasonido pelvico ginecologico</li>\n                            <li>Ultrasonido vesicoprostatico</li>\n                            <li>Ultrasonido renal</li>\n                            <li>Ultrasonido de higado y vias biliares</li>\n                            <li>Ultrasonido abdomen superior</li>\n                            <li>Ultrasonido abdominal completo</li>\n                        </ol>\n                    \n                     <h1 class=\"mbr-section-title-2 display-1 mbr-editable-content\" style=\"color: rgb(23, 90, 134); font-size: 30px;\" code-editable-id=\"382\">EN BREVE OFRECEREMOS</h1>\n                    <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"383\">\n                        </p><ol>\n                            <li>Ultrasonido musculoesqueletico</li>\n                            <li>Ultrasonido de mama</li>\n                            <li>Ultrasonido de tiroides</li>\n                            <li>Ultrasonido de partes blandas</li>\n                            <li>Ultrasonido doppler</li>\n                            <li>Biopsia guiada por ultrasonido</li>\n                            <li>Radiologia convencional y contrastada y mastografia</li>\n                        </ol>\n                    <!-- <div class=\"mbr-section-btn\"><a class=\"btn btn-primary mbr-editable-button\" href=\"https://mobirise.com\">learn more</a></div> -->\n                </div>\n\n                <div class=\"col-xs-12 col-md-6 padding-left-0 padding-right-0 image-size\">\n                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/ultrasonido-obstetrico-5760x3840.jpg\"></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown.png\">\n        </a>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
@@ -616,14 +624,14 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "VENTAJAS DE UN MÉDICO RADIÓLOGO",
+          "title": "<b>VENTAJAS DE UN MÉDICO RADIÓLOGO</b>",
           "meta": "By <b>John Smith</b> posted July 20, 2016",
           "_tags": [
             "Theme"
           ],
           "_name": "content3",
           "_anchor": "content3-s",
-          "_customCSS": ".mbr-section-title {\n    letter-spacing: 4px;\n    font-weight: bold;\n    font-size: 45px;\n}"
+          "_customCSS": ".mbr-section-title {\n    letter-spacing: 6px;\n    font-size: 45px;\n}"
         },
         {
           "_params": {
@@ -646,7 +654,8 @@
             },
             ".form-control-label": {},
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_params": {
@@ -667,7 +676,7 @@
           "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
           "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
           "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
-          "title": "SERÁ UN HONOR ATENDERTE",
+          "title": "<b>SERÁ UN HONOR ATENDERTE</b>",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contáctanos</a>",
@@ -704,7 +713,7 @@
           ],
           "_name": "form1",
           "_anchor": "form1-v",
-          "_customCSS": ".mbr-section-title {\n    letter-spacing: 6px;\n    font-weight: bold;\n    font-size: 45px;\n    padding-bottom: 40px;\n}"
+          "_customCSS": ".mbr-section-title {\n    letter-spacing: 6px;\n    font-size: 45px;\n    padding-bottom: 40px;\n}"
         }
       ]
     }
