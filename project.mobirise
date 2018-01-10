@@ -562,7 +562,7 @@
           "subtitle2": "Técnica radióloga y técnica ultrasonografista",
           "subtitle3": "DESIGNER",
           "subtitle4": "PHOTOGRAPHER",
-          "caption1": "Preparada como técnica en radiología e imagen con especialidad en ultrasonido abdominal básico.",
+          "caption1": "Preparada como técnica en radiología e imagen con especialidad en ultrasonido abdominal básico.<br><br><br>",
           "caption2": "Especializada en radiología convencional y contrastada así como en mastografía con preparación especial en realización de ultrasonido abdominal y pélvico básico",
           "caption3": "In daily life, maybe you have so familiar with a number of daily necessities, well, do you .",
           "caption4": "Every year more than four million traffic lights use an estimated three billion .",
@@ -717,7 +717,7 @@
           "title61": "TRENDY WEBSITE BLOCKS",
           "title62": "TRENDY WEBSITE BLOCKS",
           "title63": "TRENDY WEBSITE BLOCKS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs2-1f\" aria-expanded=\"false\">actuales</a></li><li class=\"nav-item nav-item-last\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs2-1f\" aria-expanded=\"true\">próximos</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs2-1f\">Animated</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs2-1f\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs2-1f\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs2-1f\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs2-1f\" aria-expanded=\"true\">actuales</a></li><li class=\"nav-item nav-item-last\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs2-1f\" aria-expanded=\"false\">próximos</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs2-1f\">Animated</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs2-1f\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs2-1f\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs2-1f\">Beautiful</a></li>",
           "media11": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header5",
