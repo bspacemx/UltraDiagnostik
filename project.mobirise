@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "project-2018-01-08_151254",
+    "name": "Ultra Diagnostik",
     "currentPage": "index.html",
     "theme": {
       "name": "colorm",
@@ -21,23 +21,25 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#ffd66e",
-        "#eec04a",
-        "#e5914d",
-        "#ffa925",
-        "#f3a224",
+        "#2291d9",
+        "#dd8814",
+        "#7e7e7e",
         "#3ea3e4",
-        "#175a86"
+        "#f2f2f2",
+        "#267db4",
+        "#ffd66e"
       ]
     },
     "versionFirst": "4.5.1",
-    "uniqCompNum": 36,
+    "uniqCompNum": 46,
     "versionPublish": "4.5.1",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -122,10 +124,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/img-ultradiagnostik-bw-2.svg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -153,12 +156,12 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
-            "buttonAlign": "right",
+            "showButtons": false,
+            "buttonAlign": "center",
             "showArrow": true,
             "iconsColor": "#ffffff",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/05.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/senior-doc-consultorio-1999x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#8e44ad",
@@ -167,12 +170,12 @@
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
             },
             "overlay": true,
-            "overlayColor": "#8e44ad",
+            "overlayColor": "#333333",
             "overlayOpacity": 0.9
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "DROP-DEAD EASY<br>WEBSITE<br>MAKER",
-          "text": "Cut down the development time with drag-and-drop website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.",
+          "title": "ULTRA<br>DIAGNOSTIK",
+          "text": "radiologia.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -183,171 +186,248 @@
         },
         {
           "_styles": {
-            ".elements-content": {
-              "padding-bottom": "50px"
+            ".lead": {
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
-              "letter-spacing": "2px",
-              "margin-bottom": "10px",
-              "font-weight": "700"
+              "text-transform": "uppercase"
             },
-            ".mbr-section-title, .tab-pane": {
-              "color": "#000"
+            ".mbr-section-title": {
+              "color": "#ffffff"
             },
-            ".mbr-section-title B": {
-              "color": "#333333"
+            ".imgTitle": {
+              "color": "#ffffff",
+              "font-family": "'Poppins', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
             }
           },
           "_params": {
-            "showHeader": true,
-            "showText": true,
+            "showTitles": false,
+            "ShowTexts": true,
             "showImages": true,
-            "showTitles": true,
-            "tabs": "2",
+            "showImgTitles": true,
+            "showBgText": true,
+            "bgText": "Nosotros",
+            "showButtons": false,
+            "imageSize": "55",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#2291d9",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ecf0f1",
-            "overlayOpacity": 0.9
+            "overlayColor": "#2c3e50",
+            "overlayOpacity": 0.6
           },
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "<br><b>¿QUIÉNES SOMOS?</b>",
-          "text": "Fundada en el año 2010 por el Dr. José Antonio Hernández Nolasco, Ultra Diagnostik es\nuna empresa que ofrece servicios de radiología e imagen de alta calidad a precios\n<br>accesibles. Somos conscientes de la situación económica de la mayoría de nuestros\npacientes, por lo que buscamos ser la opción más accesible para ellos y por medio de la\ncual reciban la calidad que merecen. &nbsp;Todos nuestros estudios son realizados por personal altamente capacitado, especializado,\ncertificado por los consejos mexicanos de su especialidad y con una amplia trayectoria y\nexperiencia en sus ramos.",
-          "title1": "Nuestro compromiso contigo",
-          "title2": "Nuestros valores",
-          "title3": "TRENDY WEBSITE BLOCKS",
-          "title4": "HOST ANYWHERE",
-          "title5": "IMAGE/CONTENT SLIDER",
-          "title6": "CONTACT FORMS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-5\" aria-expanded=\"true\">Nosotros</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-5\" aria-expanded=\"false\">Valores</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-5\">Animated</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-5\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-5\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-5\">Beautiful</a></li>",
-          "media11": {
+          "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb1.png",
+              "src": "@PROJECT_PATH@/assets/images/nosotros-600x900.png",
               "class": "card-img-top",
-              "active": true
-            }
-          },
-          "media12": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb2.png",
-              "class": "card-img-top",
-              "active": true
-            }
-          },
-          "media13": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb3.png",
-              "class": "card-img-top",
-              "active": true
-            }
-          },
-          "media14": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb4.png",
-              "class": "card-img-top",
-              "active": true
-            }
-          },
-          "media15": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb5.png",
-              "class": "card-img-top",
-              "active": true
-            }
-          },
-          "media16": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb6.png",
-              "class": "card-img-top",
-              "active": true
-            }
-          },
-          "media21": {
-            "iconFont": {
+              "width": 600,
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
-          "media22": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "attachment",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media23": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "paperclip",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media24": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "upload",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media25": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "genius",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media26": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "text1": "Auxiliarte a través de un servicio de imagen confiable y oportuno en el diagnóstico de\nenfermedades clínicas. Brindamos servicios rentables y accesibles para toda la gente.&nbsp;",
-          "text2": "Honestidad.\n<br>Calidad.\n<br>Compromiso social.\n<br>Excelencia.\n<br>Actitud de servicio.\n<br>Innovación.",
-          "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nam officia. Repellendus quae modi eaque sed, aliquam molestias, amet neque blanditiis illo ratione eos! Unde minima porro, consequatur eveniet dolore!",
-          "text4": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
-          "text5": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
-          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
+          "title1": "QUIENES SOMOS?",
+          "title2": "About us",
+          "title3": "Nosotros",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Fundada en el año 2010 por el Dr. José Antonio Hernández Nolasco, Ultra Diagnostik es una empresa que ofrece servicios de radiología e imagen de alta calidad a precios accesibles. Somos conscientes de la situación económica de la mayoría de nuestros pacientes, por lo que buscamos ser la opción más accesible para ellos y por medio de la cual reciban la calidad que merecen.  <br><br>Todos nuestros estudios son realizados por personal altamente capacitado, especializado, certificado por los consejos mexicanos de su especialidad y con una amplia trayectoria y experiencia en sus ramos.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\">Learn More &nbsp;&nbsp;<span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "header9",
-          "_anchor": "header9-5",
-          "_customCSS": ".mbr-section-title {\n    letter-spacing: 4px;\n}"
+          "_name": "features10",
+          "_anchor": "features10-10",
+          "_customCSS": ""
+        },
+        {
+          "_styles": {
+            ".display-1": {
+              "font-weight": "700",
+              "text-transform": "uppercase",
+              "margin-top": "40px"
+            },
+            "H1": {
+              "font-size": "60px"
+            },
+            "P": {
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/doctor-patient-2000x666.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#f39c12",
+            "bgText": "Animated text background",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#f39c12",
+            "bgTextSize": 250,
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f39c12",
+            "overlayOpacity": "0.8"
+          },
+          "title": "nuestro compromiso",
+          "text": "Auxiliarte a través de un servicio de imagen confiable y oportuno en el diagnóstico de enfermedades clínicas.<br>Brindamos servicios rentables y accesibles para toda la gente.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "animated-bg1",
+          "_anchor": "animated-bg1-19"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/03.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2ecc71",
+            "overlayOpacity": 0.9
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "handshake",
+              "family": "icon54-v4",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#3ea3e4"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "star",
+              "family": "icon54-v4",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#3ea3e4"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "hand",
+              "family": "icon54-v4",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#3ea3e4"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "thumbs-up",
+              "family": "icon54-v4",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#3ea3e4"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "happy-wink",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#3ea3e4"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "atom",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#3ea3e4"
+            }
+          },
+          "title": "VALORES",
+          "title1": "Bootstrap 4",
+          "subtitle1": "Honestidad",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title2": "Responsive",
+          "subtitle2": "calidad",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title3": "Web Fonts",
+          "subtitle3": "compromiso social",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "buttons3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "excelencia",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "servicio",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "buttons5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title6": "Host Anywhere",
+          "subtitle6": "inovación",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "buttons6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-12",
+          "_customCSS": ".mbr-section-title {\n  font-weight: 700;\n  color: #3ea3e4;\n  font-size: 60px;\n}\n.mbr-section-subtitle {\n  text-transform: uppercase;\n  letter-spacing: 2px;\n  color: #3ea3e4;\n}\n.mbr-section-text {\n  color: #666666;\n}\n.mbr-section-title {\n    letter-spacing: 4px;\n}\n\n.mbr-figure-background {\n    background: none;\n}",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero features4\" data-rv-view=\"80\" style=\"background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-8 col-lg-offset-2 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"240\">VALORES</h1>\n\n                </div>\n            </div>\n\n            <div class=\"mbr-cards-row row\">\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"icon54-v4-handshake mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"241\">Honestidad</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"icon54-v4-star mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"242\">calidad</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                  </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"icon54-v4-hand mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"243\">compromiso social</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"icon54-v4-thumbs-up mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"244\">excelencia</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"icon54-v1-happy-wink mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"245\">servicio</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"icon54-v1-atom mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"246\">inovación</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
         },
         {
           "_styles": {
@@ -444,7 +524,8 @@
             "Theme"
           ],
           "_name": "features7",
-          "_anchor": "features7-8"
+          "_anchor": "features7-8",
+          "_customCSS": ""
         },
         {
           "_params": {
@@ -480,8 +561,8 @@
           "subtitle2": "Técnica radióloga y técnica ultrasonografista",
           "subtitle3": "Técnica radióloga y técnica ultrasonografista",
           "subtitle4": "PHOTOGRAPHER",
-          "caption1": "Preparada como técnica en radiología e imagen con especialidad en ultrasonido abdominal básico, además de ser profesional en enfermería general con amplia experiencia en atención a pacientes politraumatizados y en estado crítico.",
-          "caption2": "Especializada en radiología convencional y contrastada así como en mastografía con\npreparación especial en realización de ultrasonido abdominal y pélvico básico,\nproveedora de soporte vital básico B.L.S. (Basic Life Support) y proveedora de soporte vital\navanzado pediátrico P.A.L.S. (Pediatric Advenced Life Support). Actualmente es miembro\nactivo de la Federación Nacional de Radiólogos e Imagenólogos (FNRIAC) y del Consejo\n<br>Nacional de Técnicos Radiólogos e Imagenólogos (CNTRI).",
+          "caption1": "Preparada como técnica en radiología e imagen con especialidad en ultrasonido abdominal básico, además de ser profesional en enfermería general con amplia experiencia en atención a pacientes politraumatizados y en estado crítico.<br><br><br><br><br>",
+          "caption2": "Especializada en radiología convencional y contrastada así como en mastografía con\npreparación especial en realización de ultrasonido abdominal y pélvico básico,\nproveedora de soporte vital básico B.L.S. (Basic Life Support) y proveedora de soporte vital\navanzado pediátrico P.A.L.S. (Pediatric Advenced Life Support). Actualmente es miembro\nactivo de la Federación Nacional de Radiólogos e magenólogos (FNRIAC) y del Consejo\nNacional de Técnicos Radiólogos e Imagenólogos (CNTRI).",
           "caption3": "Preparada como técnica en radiología e imagen con especialidad en ultrasonido abdominal\nbásico, además de ser profesional en enfermería general con amplia experiencia en\natención a pacientes politraumatizados y en estado crítico",
           "caption4": "Every year more than four million traffic lights use an estimated three billion .",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
@@ -546,7 +627,8 @@
               "font-size": "12px"
             },
             ".text2": {
-              "font-size": "14px"
+              "font-size": "14px",
+              "text-align": "left"
             },
             ".subtitle3": {
               "font-size": "12px"
@@ -560,7 +642,8 @@
             ".title1": {
               "color": "#175a86"
             }
-          }
+          },
+          "_customCSS": ".subtitle1 {\n    line-height: 30px;\n}\n\n.text1 {\n    line-height: 25px;\n    padding-top: 20px;\n}\n\n.subtitle2 {\n    line-height: 30px;\n}\n\n.text2 {\n    line-height: 25px;\n    padding-top: 20px;\n}"
         },
         {
           "_params": {
@@ -603,8 +686,8 @@
           ],
           "_name": "header7",
           "_anchor": "header7-r",
-          "_customCSS": "@import url(undefined);\n.mbr-section-subtitle {\n  text-transform: uppercase;\n  color: #9fa3a7;\n}\n\n.mbr-section-hero {\n    background-image: linear-gradient(#fff,#f0f0f0);\n}\n\n.mbr-section-text {\n  color: #9fa3a7;\n}\n.mbr-section-title {\n  color: #242424;\n  font-weight: bold;\n  font-size: 46px;\n  letter-spacing: 3px;\n  padding-top: 130px;\n}\n\n.mbr-section-title-2 {\n  color: #242424;\n  font-weight: bold;\n  font-size: 46px;\n  letter-spacing: 3px;\n  padding-top: 0;\n}\n\nli {\n    list-style-type: circle;\n    padding-top: 12px;\n    color: #9e9e9e;\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header7 mbr-section-with-arrow\" data-rv-view=\"231\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-md-6 col-lg-5 col-lg-offset-1 text-xs-left content-size\">\n                    \n                    <!--\n                    <p class=\"mbr-section-subtitle lead subtitle mbr-editable-content\">mobirise builder</p>-->\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" style=\"color: rgb(23, 90, 134); font-size: 30px;\" code-editable-id=\"380\">NUESTROS SERVICIOS</h1>\n                    <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"381\">\n                        </p><ol>\n                            <li>Ultrasonido obstetrico</li>\n                            <li>Ultrasonido pelvico ginecologico</li>\n                            <li>Ultrasonido vesicoprostatico</li>\n                            <li>Ultrasonido renal</li>\n                            <li>Ultrasonido de higado y vias biliares</li>\n                            <li>Ultrasonido abdomen superior</li>\n                            <li>Ultrasonido abdominal completo</li>\n                        </ol>\n                    \n                     <h1 class=\"mbr-section-title-2 display-1 mbr-editable-content\" style=\"color: rgb(23, 90, 134); font-size: 30px;\" code-editable-id=\"382\">EN BREVE OFRECEREMOS</h1>\n                    <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"383\">\n                        </p><ol>\n                            <li>Ultrasonido musculoesqueletico</li>\n                            <li>Ultrasonido de mama</li>\n                            <li>Ultrasonido de tiroides</li>\n                            <li>Ultrasonido de partes blandas</li>\n                            <li>Ultrasonido doppler</li>\n                            <li>Biopsia guiada por ultrasonido</li>\n                            <li>Radiologia convencional y contrastada y mastografia</li>\n                        </ol>\n                    <!-- <div class=\"mbr-section-btn\"><a class=\"btn btn-primary mbr-editable-button\" href=\"https://mobirise.com\">learn more</a></div> -->\n                </div>\n\n                <div class=\"col-xs-12 col-md-6 padding-left-0 padding-right-0 image-size\">\n                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/ultrasonido-obstetrico-5760x3840.jpg\"></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown.png\">\n        </a>\n    </div>\n\n</section>",
+          "_customCSS": "@import url(undefined);\n.mbr-section-subtitle {\n  text-transform: uppercase;\n  color: #9fa3a7;\n}\n\n.mbr-section-hero {\n    background-image: linear-gradient(#fff,#f0f0f0);\n}\n\n.mbr-section-text {\n  color: #9fa3a7;\n}\n\n.mbr-section-title {\n  color: #242424;\n  font-weight: bold;\n  font-size: 46px;\n  letter-spacing: 3px;\n  padding-top: 130px;\n}\n\n.mbr-section-title-2 {\n  color: #242424;\n  font-weight: bold;\n  font-size: 46px;\n  letter-spacing: 3px;\n  padding-top: 0;\n}\n\nli {\n    list-style-type: circle;\n    padding-top: 12px;\n    color: #9e9e9e;\n}\n\n.mbr-figure {\n    height: 100%;\n}",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header7 mbr-section-with-arrow\" data-rv-view=\"231\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-md-6 col-lg-5 col-lg-offset-1 text-xs-left content-size\">\n                    \n                    <!--\n                    <p class=\"mbr-section-subtitle lead subtitle mbr-editable-content\">mobirise builder</p>-->\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" style=\"color: rgb(23, 90, 134); font-size: 30px;\" code-editable-id=\"275\">NUESTROS SERVICIOS</h1>\n                    <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"276\">\n                        </p><ol>\n                            <li>Ultrasonido obstetrico</li>\n                            <li>Ultrasonido pelvico ginecologico</li>\n                            <li>Ultrasonido vesicoprostatico</li>\n                            <li>Ultrasonido renal</li>\n                            <li>Ultrasonido de higado y vias biliares</li>\n                            <li>Ultrasonido abdomen superior</li>\n                            <li>Ultrasonido abdominal completo</li>\n                        </ol>\n                    \n                     <h1 class=\"mbr-section-title-2 display-1 mbr-editable-content\" style=\"color: rgb(23, 90, 134); font-size: 30px;\" code-editable-id=\"277\">EN BREVE OFRECEREMOS</h1>\n                    <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"278\">\n                        </p><ol>\n                            <li>Ultrasonido musculoesqueletico</li>\n                            <li>Ultrasonido de mama</li>\n                            <li>Ultrasonido de tiroides</li>\n                            <li>Ultrasonido de partes blandas</li>\n                            <li>Ultrasonido doppler</li>\n                            <li>Biopsia guiada por ultrasonido</li>\n                            <li>Radiologia convencional y contrastada y mastografia</li>\n                        </ol>\n                    <!-- <div class=\"mbr-section-btn\"><a class=\"btn btn-primary mbr-editable-button\" href=\"https://mobirise.com\">learn more</a></div> -->\n                </div>\n\n                <div class=\"col-xs-12 col-md-6 padding-left-0 padding-right-0 image-size\">\n                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/ultrasonido-obstetrico-5760x3840.jpg\"></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown.png\">\n        </a>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
@@ -668,7 +751,7 @@
             "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3ea3e4",
+            "bgColor": "#f39c12",
             "overlay": false,
             "overlayColor": "#ecf0f1",
             "overlayOpacity": 0.5
@@ -714,6 +797,76 @@
           "_name": "form1",
           "_anchor": "form1-v",
           "_customCSS": ".mbr-section-title {\n    letter-spacing: 6px;\n    font-size: 45px;\n    padding-bottom: 40px;\n}"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "font-size": "14px",
+              "color": "#7e7e7e",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showTitles": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#333333",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-ultradiagnostik-bw-2.svg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "Dr. genaro díaz mañón s/n col. la trinidad<br>tenancingo, méxico. c.p. 52400<br>(722) 581-38-07",
+          "form": {
+            "action": "contacto@ultradiagnostik.com",
+            "alerts": {
+              "success": "Nos pondremos en contacto contigo."
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "contacto@ultradiagnostik.com"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-18",
+          "_customCSS": ".logo {\n    padding-right: 23px;\n}"
         }
       ]
     }
