@@ -832,7 +832,8 @@ blockquote {
   color: #666666;
 }
 #features3-12 .mbr-section-title {
-  letter-spacing: 4px;
+  letter-spacing: 6px;
+  font-size: 45px;
 }
 #features3-12 .mbr-figure-background {
   background: none;
@@ -848,7 +849,8 @@ blockquote {
   color: #333333;
 }
 #content3-9 .mbr-section-title {
-  letter-spacing: 3px;
+  letter-spacing: 6px;
+  font-size: 45px;
 }
 #features7-8 .lead {
   color: #9fa3a7;
@@ -898,37 +900,18 @@ blockquote {
   line-height: 25px;
   padding-top: 20px;
 }
-#header7-r .mbr-section-subtitle {
-  text-transform: uppercase;
-  color: #9fa3a7;
+#tabs2-1f P {
+  text-align: center;
 }
-#header7-r .mbr-section-hero {
-  background-image: linear-gradient(#ffffff, #f0f0f0);
+#tabs2-1f I {
+  color: #3ea3e4;
 }
-#header7-r .mbr-section-text {
-  color: #9fa3a7;
+#tabs2-1f .mbr-section-title B {
+  color: #333333;
 }
-#header7-r .mbr-section-title {
-  color: #242424;
-  font-weight: bold;
-  font-size: 46px;
-  letter-spacing: 3px;
-  padding-top: 130px;
-}
-#header7-r .mbr-section-title-2 {
-  color: #242424;
-  font-weight: bold;
-  font-size: 46px;
-  letter-spacing: 3px;
-  padding-top: 0;
-}
-#header7-r li {
-  list-style-type: circle;
-  padding-top: 12px;
-  color: #9e9e9e;
-}
-#header7-r .mbr-figure {
-  height: 100%;
+#tabs2-1f .mbr-section-title {
+  letter-spacing: 6px;
+  font-size: 45px;
 }
 #content3-s .mbr-section-title,
 #content3-s .mbr-section-subtitle {
@@ -951,19 +934,14 @@ blockquote {
   color: #ffffff;
   text-align: center;
 }
+#form1-v .mbr-section-text {
+  color: #f2f2f2;
+}
 #form1-v .mbr-section-title {
   letter-spacing: 6px;
   font-size: 45px;
   padding-bottom: 40px;
 }
-#footer4-18 .mbr-section-subtitle {
-  font-size: 14px;
-  color: #7e7e7e;
-  text-align: center;
-}
-#footer4-18 .logo {
-  padding-right: 23px;
-}
-#footer4-18 .mbr-section-subtitle {
-  padding-left: 170px;
+#footer2-1g .mbr-section-text {
+  color: #fff;
 }
