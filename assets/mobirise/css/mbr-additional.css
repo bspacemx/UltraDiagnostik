@@ -855,47 +855,14 @@ blockquote {
 #features7-8 .mbr-section-subtitle {
   text-transform: uppercase;
 }
-#team1-6 .text1 {
-  text-align: left;
-  font-size: 14px;
+#team1-1h .title1 {
+  color: #1c435c;
+}
+#team1-1h .subtitle1 {
+  color: #ecf0f1;
+}
+#team1-1h .text1 {
   color: #ffffff;
-}
-#team1-6 .subtitle1 {
-  font-size: 12px;
-  color: #ffffff;
-}
-#team1-6 .subtitle2 {
-  font-size: 12px;
-}
-#team1-6 .text2 {
-  font-size: 14px;
-  text-align: left;
-}
-#team1-6 .subtitle3 {
-  font-size: 12px;
-}
-#team1-6 .text3 {
-  font-size: 14px;
-}
-#team1-6 .title1 DIV {
-  color: #175a86;
-}
-#team1-6 .title1 {
-  color: #175a86;
-}
-#team1-6 .subtitle1 {
-  line-height: 30px;
-}
-#team1-6 .text1 {
-  line-height: 25px;
-  padding-top: 20px;
-}
-#team1-6 .subtitle2 {
-  line-height: 30px;
-}
-#team1-6 .text2 {
-  line-height: 25px;
-  padding-top: 20px;
 }
 #tabs2-1f P {
   text-align: center;

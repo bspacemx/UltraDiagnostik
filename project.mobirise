@@ -21,17 +21,17 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#52779e",
+        "#1c435c",
+        "#245c81",
+        "#f3a224",
         "#2291d9",
         "#dd8814",
-        "#7e7e7e",
-        "#3ea3e4",
-        "#f2f2f2",
-        "#267db4",
-        "#ffd66e"
+        "#7e7e7e"
       ]
     },
     "versionFirst": "4.5.1",
-    "uniqCompNum": 54,
+    "uniqCompNum": 55,
     "versionPublish": "4.5.1",
     "favicon": "",
     "noImageResize": "",
@@ -530,87 +530,6 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
-            "rows": "2",
-            "bgItem1": "#f5f5f5",
-            "bgItem2": "#ffc80a",
-            "bgItem3": "#d2dde4",
-            "bgItem4": "#212121",
-            "paddingTop": 2,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ecf0f1",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Our Team",
-          "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
-          "person1": "Jim Morrison",
-          "person2": "Eva Habermann",
-          "person3": "Barry Bostwick",
-          "person4": "Anna Cameron",
-          "subtitle1": "DEVELOPER",
-          "subtitle2": "DESIGNER",
-          "subtitle3": "DESIGNER",
-          "subtitle4": "PHOTOGRAPHER",
-          "caption1": "Data Centers have gained importance with hyper connectivity. To handle .",
-          "caption2": "When the aim is to develop an entertaining and fun game app, it is essential for .",
-          "caption3": "In daily life, maybe you have so familiar with a number of daily necessities, well, do you .",
-          "caption4": "Every year more than four million traffic lights use an estimated three billion .",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face1.png",
-              "class": "features-img",
-              "width": 600
-            }
-          },
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face2.png",
-              "class": "features-img",
-              "width": 600
-            }
-          },
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face3.png",
-              "class": "features-img",
-              "width": 600
-            }
-          },
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face4.png",
-              "class": "features-img",
-              "width": 600
-            }
-          },
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "team1",
-          "_anchor": "team1-1h"
-        },
-        {
-          "_params": {
             "showTitle": false,
             "showSubtitle": false,
             "rows": "1",
@@ -633,19 +552,19 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Nuestro equipo",
+          "title": "Our Team",
           "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
           "person1": "P.A.R.I. Zurisaddai\n<div>Rodríguez Morales</div>",
-          "person2": "P.A.R.I. Karen Isabel<br>Flores Fernández",
-          "person3": "P.A.R.I. Zurisaddai<br>Rodríguez Morales",
+          "person2": "P.A.R.I. Karen Isabel\n<div>Flores Fernández</div>",
+          "person3": "Barry Bostwick",
           "person4": "Anna Cameron",
           "subtitle1": "Técnica radióloga y técnica ultrasonografista",
           "subtitle2": "Técnica radióloga y técnica ultrasonografista",
-          "subtitle3": "Técnica radióloga y técnica ultrasonografista",
+          "subtitle3": "DESIGNER",
           "subtitle4": "PHOTOGRAPHER",
-          "caption1": "Preparada como técnica en radiología e imagen con especialidad en ultrasonido abdominal básico, además de ser profesional en enfermería general con amplia experiencia en atención a pacientes politraumatizados y en estado crítico.<br><br><br><br><br><br>",
-          "caption2": "Especializada en radiología convencional y contrastada así como en mastografía con\npreparación especial en realización de ultrasonido abdominal y pélvico básico,\nproveedora de soporte vital básico B.L.S. (Basic Life Support) y proveedora de soporte vital\navanzado pediátrico P.A.L.S. (Pediatric Advenced Life Support). Actualmente es miembro\nactivo de la Federación Nacional de Radiólogos e magenólogos (FNRIAC) y del Consejo\nNacional de Técnicos Radiólogos e Imagenólogos (CNTRI).",
-          "caption3": "Preparada como técnica en radiología e imagen con especialidad en ultrasonido abdominal\nbásico, además de ser profesional en enfermería general con amplia experiencia en\natención a pacientes politraumatizados y en estado crítico",
+          "caption1": "Preparada como técnica en radiología e imagen con especialidad en ultrasonido abdominal básico.",
+          "caption2": "Especializada en radiología convencional y contrastada así como en mastografía con preparación especial en realización de ultrasonido abdominal y pélvico básico",
+          "caption3": "In daily life, maybe you have so familiar with a number of daily necessities, well, do you .",
           "caption4": "Every year more than four million traffic lights use an estimated three billion .",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
@@ -654,7 +573,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-1200x800.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -665,7 +584,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face2-1.png",
+              "src": "@PROJECT_PATH@/assets/images/face2-2.png",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -676,7 +595,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face3.png",
+              "src": "@THEME_PATH@/components/_images/team/face3.png",
               "class": "features-img",
               "width": 600
             }
@@ -684,7 +603,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face4.png",
+              "src": "@THEME_PATH@/components/_images/team/face4.png",
               "class": "features-img",
               "width": 600
             }
@@ -694,38 +613,49 @@
             "Theme"
           ],
           "_name": "team1",
-          "_anchor": "team1-6",
+          "_anchor": "team1-1h",
           "_styles": {
-            ".text1": {
-              "text-align": "left",
-              "font-size": "14px",
-              "color": "#ffffff"
+            ".title1": {
+              "color": "#1c435c"
             },
             ".subtitle1": {
-              "font-size": "12px",
+              "color": "#ecf0f1"
+            },
+            ".text1": {
               "color": "#ffffff"
-            },
-            ".subtitle2": {
-              "font-size": "12px"
-            },
-            ".text2": {
-              "font-size": "14px",
-              "text-align": "left"
-            },
-            ".subtitle3": {
-              "font-size": "12px"
-            },
-            ".text3": {
-              "font-size": "14px"
-            },
-            ".title1 DIV": {
-              "color": "#175a86"
-            },
-            ".title1": {
-              "color": "#175a86"
             }
+          }
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showButtons": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/team-2000x1049.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#c0392b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#52779e",
+            "overlayOpacity": "0.7"
           },
-          "_customCSS": ".subtitle1 {\n    line-height: 30px;\n}\n\n.text1 {\n    line-height: 25px;\n    padding-top: 20px;\n}\n\n.subtitle2 {\n    line-height: 30px;\n}\n\n.text2 {\n    line-height: 25px;\n    padding-top: 20px;\n}"
+          "title": "Conoce más de nuestro equipo",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos quaerat omnis amet accusantium accusamus quidems?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">equipo ultra diagnostik</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "call4",
+          "_anchor": "call4-1i",
+          "_customCSS": ""
         },
         {
           "_styles": {
