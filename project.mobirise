@@ -835,7 +835,7 @@
               "size": 0
             }
           },
-          "title1": "Dr. genaro díaz mañón s/n col. la trinidad<br>tenancingo, méxico. c.p. 52400<br>(722) 581-38-07",
+          "title1": "Dr. genaro díaz mañón s/n <br>col. la trinidad tenancingo, méxico.<br>c.p. 52400 &nbsp; | &nbsp; (722) 581-38-07",
           "form": {
             "action": "contacto@ultradiagnostik.com",
             "alerts": {
@@ -866,7 +866,7 @@
           ],
           "_name": "footer4",
           "_anchor": "footer4-18",
-          "_customCSS": ".logo {\n    padding-right: 23px;\n}"
+          "_customCSS": ".logo {\n    padding-right: 23px;\n}\n\n.mbr-section-subtitle {\n    padding-left: 170px;\n}"
         }
       ]
     }
