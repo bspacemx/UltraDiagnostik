@@ -514,9 +514,6 @@ textarea,
 .mbr-gallery-filter li:hover {
   color: #f39c12;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 /*colorM*/
 /*nav-tabs*/
 .header5 .nav-tabs .nav-link:after {
@@ -904,7 +901,7 @@ blockquote {
   text-align: center;
 }
 #tabs2-1f I {
-  color: #3ea3e4;
+  color: #000000;
 }
 #tabs2-1f .mbr-section-title B {
   color: #333333;
@@ -935,7 +932,10 @@ blockquote {
   text-align: center;
 }
 #form1-v .mbr-section-text {
-  color: #f2f2f2;
+  color: #ffffff;
+}
+#form1-v .mbr-section-text B {
+  color: #ffffff;
 }
 #form1-v .mbr-section-title {
   letter-spacing: 6px;

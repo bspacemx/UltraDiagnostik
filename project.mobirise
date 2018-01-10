@@ -18,7 +18,7 @@
         "textFont": "Open Sans",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#2291d9",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.5.1",
-    "uniqCompNum": 53,
+    "uniqCompNum": 54,
     "versionPublish": "4.5.1",
     "favicon": "",
     "noImageResize": "",
@@ -530,6 +530,87 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "rows": "2",
+            "bgItem1": "#f5f5f5",
+            "bgItem2": "#ffc80a",
+            "bgItem3": "#d2dde4",
+            "bgItem4": "#212121",
+            "paddingTop": 2,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Our Team",
+          "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
+          "person1": "Jim Morrison",
+          "person2": "Eva Habermann",
+          "person3": "Barry Bostwick",
+          "person4": "Anna Cameron",
+          "subtitle1": "DEVELOPER",
+          "subtitle2": "DESIGNER",
+          "subtitle3": "DESIGNER",
+          "subtitle4": "PHOTOGRAPHER",
+          "caption1": "Data Centers have gained importance with hyper connectivity. To handle .",
+          "caption2": "When the aim is to develop an entertaining and fun game app, it is essential for .",
+          "caption3": "In daily life, maybe you have so familiar with a number of daily necessities, well, do you .",
+          "caption4": "Every year more than four million traffic lights use an estimated three billion .",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face1.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face2.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face3.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face4.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "team1",
+          "_anchor": "team1-1h"
+        },
+        {
+          "_params": {
             "showTitle": false,
             "showSubtitle": false,
             "rows": "1",
@@ -595,7 +676,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/team/face3.png",
+              "src": "@PROJECT_PATH@/assets/images/face3.png",
               "class": "features-img",
               "width": 600
             }
@@ -603,7 +684,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/team/face4.png",
+              "src": "@PROJECT_PATH@/assets/images/face4.png",
               "class": "features-img",
               "width": 600
             }
@@ -652,7 +733,7 @@
               "text-align": "center"
             },
             "I": {
-              "color": "#3ea3e4"
+              "color": "#000000"
             },
             ".mbr-section-title B": {
               "color": "#333333"
@@ -681,7 +762,7 @@
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "<b>NUESTROS SERVICIOS</b>",
-          "text": "Todos nuestros estudios son ejecutados por personal altamente capacitado e\ninterpretados por médico radiólogo para brindarte la mejor calidad para tu salud.\n<br><i><b>¿Porqué elegir un equipo de\nmédicos radiólogos sobre uno de ultrasonografistas?&nbsp;</b></i>",
+          "text": "Todos nuestros estudios son ejecutados por personal altamente capacitado e\ninterpretados por médico radiólogo para brindarte la mejor calidad para tu salud.\n<br><i><b><a href=\"index.html#content3-s\">¿Porqué elegir un equipo de\nmédicos radiólogos sobre uno de ultrasonografistas?&nbsp;</a></b></i>",
           "media": {
             "image": {
               "active": true,
@@ -982,7 +1063,10 @@
               "text-align": "center"
             },
             ".mbr-section-text": {
-              "color": "#f2f2f2"
+              "color": "#ffffff"
+            },
+            ".mbr-section-text B": {
+              "color": "#ffffff"
             }
           },
           "_params": {
