@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ultra Diagnostik",
-    "currentPage": "index.html",
+    "currentPage": "ultradiagnostik.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -21,19 +21,19 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#1c6da1",
         "#52779e",
         "#1c435c",
         "#245c81",
         "#f3a224",
         "#2291d9",
-        "#dd8814",
-        "#7e7e7e"
+        "#dd8814"
       ]
     },
     "versionFirst": "4.5.1",
-    "uniqCompNum": 71,
+    "uniqCompNum": 92,
     "versionPublish": "4.5.1",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-ud.svg",
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
@@ -42,11 +42,11 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "index.html": {
+    "ultradiagnostik.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Ultra Diagnostik",
+        "meta_descr": "Ultra Diagnostik es una empresa que ofrece servicios de radiología e imagen de alta calidad a precios accesibles.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -85,13 +85,13 @@
               "color": "#ffffff"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1a242f"
+              "background": "#1a1a1a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#273646!important"
+              "background": "#2b2b2b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2c3e50"
+              "background": "#333333"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -114,21 +114,22 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#2c3e50",
+            "bgColor": "#333333",
             "fontSize": 0.875,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features10-10\">Nosotros</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-9\">Nuestro equipo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#tabs2-1f\">Servicios</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-v\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ultradiagnostik.html#features10-10\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ultradiagnostik.html#content3-9\">NUESTRO EQUIPO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ultradiagnostik.html#tabs2-1f\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ultradiagnostik.html#form1-v\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ultradiagnostik-bw-1.svg",
+              "src": "@PROJECT_PATH@/assets/images/ultradiagnostik-largebw.svg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html#header2-1",
-              "title": ""
+              "link": "ultradiagnostik.html#header2-1",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -176,7 +177,7 @@
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "ULTRA<br>DIAGNOSTIK",
-          "text": "radiologia.",
+          "text": "radiología",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -653,7 +654,7 @@
           },
           "title": "Conoce más de nuestro equipo",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos quaerat omnis amet accusantium accusamus quidems?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black-outline\" href=\"page1.html#header9-1t\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Equipo UltraDiagnostik</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black-outline\" href=\"equipo-ud.html#content3-2b\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Equipo UltraDiagnostik</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -696,7 +697,7 @@
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "<b>NUESTROS SERVICIOS</b>",
-          "text": "Todos nuestros estudios son ejecutados por personal altamente capacitado e\ninterpretados por médico radiólogo para brindarte la mejor calidad para tu salud.\n<br><i><b><a href=\"page1.html#content3-1p\" target=\"_blank\">¿Porqué elegir un equipo de\nmédicos radiólogos sobre uno de ultrasonografistas?&nbsp;</a></b></i>",
+          "text": "Todos nuestros estudios son ejecutados por personal altamente capacitado e\ninterpretados por médico radiólogo para brindarte la mejor calidad para tu salud.\n<br><i><b><a href=\"page1.html#content3-1p\" target=\"_blank\">¿Porqué elegir un equipo de\nmédicos radiólogos sobre uno de ultrasonografistas?&nbsp;</a></b></i><br><i><b><a href=\"page1.html#content3-1p\" target=\"_blank\"><br></a></b></i>",
           "media": {
             "image": {
               "active": true,
@@ -1040,7 +1041,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 <a href=\"http://mobirise.com\" class=\"text-info\">BSpace Express</a>.",
+          "text": "Copyright (c) 2018 Ultra Diagnostik - Creado por&nbsp;<a href=\"http://mobirise.com\" class=\"text-info\">BSpace Express</a>.",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -1050,10 +1051,11 @@
         }
       ]
     },
-    "page1.html": {
+    "equipo-ud.html": {
       "settings": {
-        "title": "Equipo UD",
-        "order": 1
+        "title": "Nuestros especialistas",
+        "order": 1,
+        "meta_descr": "Todos nuestros estudios son realizados por personal altamente capacitado, especializado, certificado por los consejos mexicanos de su especialidad y con una amplia trayectoria y experiencia en sus ramos."
       },
       "components": [
         {
@@ -1089,13 +1091,13 @@
               "color": "#ffffff"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1a242f"
+              "background": "#1a1a1a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#273646!important"
+              "background": "#2b2b2b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2c3e50"
+              "background": "#333333"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1118,21 +1120,22 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#2c3e50",
+            "bgColor": "#333333",
             "fontSize": 0.875,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features10-10\">Nosotros</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-9\">Nuestro equipo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#tabs2-1f\">Servicios</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-v\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ultradiagnostik.html#features10-10\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ultradiagnostik.html#content3-9\">NUESTRO EQUIPO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ultradiagnostik.html#tabs2-1f\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ultradiagnostik.html#form1-v\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ultradiagnostik-bw-1.svg",
+              "src": "@PROJECT_PATH@/assets/images/ultradiagnostik-largebw.svg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html#header2-1",
-              "title": ""
+              "link": "ultradiagnostik.html#header2-1",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1167,7 +1170,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 <a href=\"http://mobirise.com\" class=\"text-info\">BSpace Express</a>.",
+          "text": "Copyright (c) 2018 Ultra Diagnostik - Creado por&nbsp;<a href=\"http://mobirise.com\" class=\"text-info\">BSpace Express</a>.",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -1218,208 +1221,225 @@
         },
         {
           "_styles": {
-            ".elements-content": {
-              "padding-bottom": "50px"
-            },
-            ".mbr-section-subtitle": {
-              "letter-spacing": "2px",
-              "margin-bottom": "10px",
-              "font-weight": "700"
-            },
-            ".mbr-section-title, .tab-pane": {
-              "color": "#000"
-            },
-            ".mbr-section-title B": {
-              "font-size": "46px"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
           },
           "_params": {
-            "showHeader": true,
+            "showMeta": true,
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "Dr. José Antonio Hernández Nolasco",
+          "meta": "Fundador de Ultra Diagnostik",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-2b"
+        },
+        {
+          "_params": {
             "showText": true,
-            "showImages": true,
-            "showTitles": true,
-            "tabs": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/511583494-1400x918.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
-            "overlay": true,
-            "overlayColor": "#ecf0f1",
-            "overlayOpacity": 0.9
-          },
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "<br><b>NUESTROS ESPECIALISTAS</b>",
-          "text": "En UltraDiagnostik contamos con el personal más capacitado para el servicio que necesitas.",
-          "title1": "FUNDADOR DE ULTRADIAGNOSTIK",
-          "title2": "TÉCNICA RADIÓLOGA Y ULTRASONOGRAFISTA",
-          "title3": "TÉCNICA RADIÓLOGA Y ULTRASONOGRAFISTA",
-          "title4": "HOST ANYWHERE",
-          "title5": "IMAGE/CONTENT SLIDER",
-          "title6": "CONTACT FORMS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-1t\" aria-expanded=\"true\">Dr. Jose Antonio</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-1t\" aria-expanded=\"false\">p.a.r.i. Zurisaddai</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-1t\" aria-expanded=\"false\">p.a.r.i. Karen Isabel</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-1t\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-1t\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-1t\">Beautiful</a></li>",
-          "media11": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/senior-doc-trans-1342x1509.png",
-              "class": "card-img-top",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "media12": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/senior-doc-trans-1342x1509.png",
-              "class": "card-img-top",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media13": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/senior-doc-trans-1342x1509.png",
-              "class": "card-img-top",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media14": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb4.png",
-              "class": "card-img-top",
-              "active": true
-            }
-          },
-          "media15": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb5.png",
-              "class": "card-img-top",
-              "active": true
-            }
-          },
-          "media16": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb6.png",
-              "class": "card-img-top",
-              "active": true
-            }
-          },
-          "media21": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media22": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "attachment",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media23": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "paperclip",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media24": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "upload",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media25": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "genius",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media26": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "text1": "Médico cirujano con especialidad en radiología e imagen y maestría en dirección\nestratégica de organizaciones de salud. El doctor José Antonio cuenta con una gran\nexperiencia como responsable sanitario de departamentos de radiología e imagen en\ninstituciones de salud como Cruz Roja Toluca y Grupo Diagnóstico PROA. Es miembro\nactivo de la Sociedad Norteamericana de Radiología (RSNA) y de la Sociedad Europea\nde radiología (ESR). Actualmente dedica gran parte de su tiempo en compartir sus\nconocimientos y preparar a las nuevas generaciones, destacando su participación en\nponencias como “Parámetros técnicos para una telerradiografía de tórax “ en el “1er\nCongreso Estatal de la Sociedad de Técnicos Radiólogos del Estado de México”, “Accesos\nvasculares y procedimientos anestésicos guiados por ultrasonido” en el “V Congreso Bienal\ndel Instituto Materno Infantil del Estado de México” y llevando a cabo el “Primer curso de\nultrasonido abdominal básico” en la Cruz Roja Mexicana.",
-          "text2": "Preparada como técnica en radiología e imagen con especialidad en ultrasonido abdominal\nbásico, además de ser profesional en enfermería general con amplia experiencia en\natención a pacientes politraumatizados y en estado crítico.&nbsp;<br><br>Preparada como técnica en radiología e imagen con especialidad en ultrasonido abdominal básico, además de ser profesional en enfermería general con amplia experiencia en atención a pacientes politraumatizados y en estado crítico.&nbsp;<br>",
-          "text3": "Especializada en radiología convencional y contrastada así como en mastografía con\npreparación especial en realización de ultrasonido abdominal y pélvico básico,\nproveedora de soporte vital básico B.L.S. (Basic Life Support) y proveedora de soporte vital\navanzado pediátrico P.A.L.S. (Pediatric Advenced Life Support). Actualmente es miembro\nactivo de la Federación Nacional de Radiólogos e Imagenólogos (FNRIAC) y del Consejo\n<br>Nacional de Técnicos Radiólogos e Imagenólogos (CNTRI).&nbsp;",
-          "text4": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
-          "text5": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
-          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
+          "text": "Médico Cirujano con especialidad en radiología e imagen",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "header9",
-          "_anchor": "header9-1t",
-          "_customCSS": ".mbr-section-title {\n    letter-spacing: 4px;\n}"
+          "_name": "image2",
+          "_anchor": "image2-2c"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "Maestría en dirección estratégica de organizaciones de salud. El doctor José Antonio cuenta con una gran experiencia como responsable sanitario de departamentos de radiología e imagen en instituciones de salud como Cruz Roja Toluca y Grupo Diagnóstico PROA. Es miembro activo de la Sociedad Norteamericana de Radiología (RSNA) y de la Sociedad Europea de Radiología (ESR)<br><br>Actualmente dedica gran parte de su tiempo en compartir sus conocimientos y preparar a las nuevas generaciones, destacando su participación en ponencias como “Parámetros técnicos para una telerradiografía de tórax “ en el “1er Congreso Estatal de la Sociedad de Técnicos Radiólogos del Estado de México”, “Accesos vasculares y procedimientos anestésicos guiados por ultrasonido” en el “V Congreso Bienal del Instituto Materno Infantil del Estado de México” y llevando a cabo el “Primer curso de ultrasonido abdominal básico” en la Cruz Roja Mexicana.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-29"
         },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
-            },
-            "H3": {
-              "color": "#175a86"
             }
           },
           "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "showMeta": true,
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgColor": "#eeeeee"
           },
-          "title": "<b>VENTAJAS DE UN MÉDICO RADIÓLOGO</b>",
-          "meta": "By <b>John Smith</b> posted July 20, 2016",
+          "title": "P.A.R.I Karen Isabel Flores Fernández",
+          "meta": "Técnica radióloga y técnica ultrasonografista",
           "_tags": [
             "Theme"
           ],
           "_name": "content3",
-          "_customCSS": ".mbr-section-title {\n    letter-spacing: 6px;\n    font-size: 45px;\n}",
-          "_anchor": "content3-1p"
+          "_anchor": "content3-2d"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#eeeeee"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/doctor-467179149-56b08aaf3df78cf772cf9262-1280x853.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Especializada en radiología convencional y contrastada",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2e"
         },
         {
           "_params": {
             "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#eeeeee"
+          },
+          "text": "Especializada en radiología convencional y contrastada así como en mastografía con\npreparación especial en realización de ultrasonido abdominal y pélvico básico,\nproveedora de soporte vital básico B.L.S. (Basic Life Support) y proveedora de soporte vital\navanzado pediátrico P.A.L.S. (Pediatric Advenced Life Support). Actualmente es miembro\nactivo de la Federación Nacional de Radiólogos e Imagenólogos (FNRIAC) y del Consejo\nNacional de Técnicos <br>Radiólogos e Imagenólogos (CNTRI).",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2f"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "P.A.R.I. Zurisaddai Rodríguez Morales\n",
+          "meta": "Técnica radióloga y técnica ultrasonografista",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-2g"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/doctor-467179149-56b08aaf3df78cf772cf9262-1280x853.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Técnica en radiología e imagen",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2h"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "6",
+            "bgColor": "#ffffff"
+          },
+          "text": "Preparada como técnica en radiología e imagen con especialidad en ultrasonido abdominal\nbásico, además de ser profesional en enfermería general con amplia experiencia en\natención a pacientes politraumatizados y en estado crítico.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2i"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ultrasonido-obstetrico-3-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#1c6da1",
+            "overlayOpacity": 0.8
+          },
+          "title": "Ventajas de un médico radiólogo<br>",
+          "caption": "<p>Article header with background image and parallax effect.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2j",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
@@ -1437,8 +1457,8 @@
             "paddingBottom": "5",
             "bgColor": "#ffffff"
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text1": "<p>Para   ser   especialista   en Radiología e   Imagen (imagenologia diagnóstica y terapéutica) primero se  debe  ser médicogeneral, es  decir, estudiar cuatro o cinco años     en     la     universidad (dependiendo del plan de estudios) hacer un año de  internado  con  guardias  cada  tercer día y  un año de servicio social donde solo se descansa una vez  a  la  semana  brindando atención medica  24 hrs al día.</p>",
+          "text2": "<p>Puede ser médicogeneral en el mejor de los casos o  ser técnicoradiólogo el  cual solo tendrá dos años   de   estudio técnico y algún curso   de ultrasonido básico.</p>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
