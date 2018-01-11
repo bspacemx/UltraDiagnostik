@@ -855,14 +855,17 @@ blockquote {
 #features7-8 .mbr-section-subtitle {
   text-transform: uppercase;
 }
-#team1-1h .title1 {
+#team1-1l .title1 {
   color: #1c435c;
 }
-#team1-1h .subtitle1 {
+#team1-1l .subtitle1 {
   color: #ecf0f1;
 }
-#team1-1h .text1 {
+#team1-1l .text1 {
   color: #ffffff;
+}
+#call4-1m .mbr-section-title {
+  text-align: center;
 }
 #tabs2-1f P {
   text-align: center;
@@ -874,17 +877,6 @@ blockquote {
   color: #333333;
 }
 #tabs2-1f .mbr-section-title {
-  letter-spacing: 6px;
-  font-size: 45px;
-}
-#content3-s .mbr-section-title,
-#content3-s .mbr-section-subtitle {
-  text-align: center;
-}
-#content3-s H3 {
-  color: #175a86;
-}
-#content3-s .mbr-section-title {
   letter-spacing: 6px;
   font-size: 45px;
 }
@@ -911,4 +903,134 @@ blockquote {
 }
 #footer2-1g .mbr-section-text {
   color: #fff;
+}
+#menu-1n .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1n .navbar-caption {
+  color: #ffffff;
+}
+#menu-1n .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1n .close-icon::before,
+#menu-1n .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-1n .link,
+#menu-1n .dropdown-item {
+  color: #ffffff;
+}
+#menu-1n .link {
+  font-size: 0.875rem;
+}
+#menu-1n .dropdown-item,
+#menu-1n .nav-dropdown-sm .link {
+  font-size: 0.948rem;
+}
+#menu-1n .link:hover,
+#menu-1n .link:focus {
+  color: #f39c12;
+}
+#menu-1n .dropdown-item:hover::before,
+#menu-1n .dropdown-item:focus::before {
+  background: #f39c12;
+}
+#menu-1n .dropdown-item:hover,
+#menu-1n .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-1n .link[aria-expanded="true"],
+#menu-1n .dropdown-menu {
+  background: #1a242f;
+}
+#menu-1n .nav-dropdown-sm .link:focus,
+#menu-1n .nav-dropdown-sm .link:hover,
+#menu-1n .nav-dropdown-sm .dropdown-item:focus,
+#menu-1n .nav-dropdown-sm .dropdown-item:hover {
+  background: #273646!important;
+}
+#menu-1n .navbar,
+#menu-1n .nav-dropdown-sm,
+#menu-1n .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1n .nav-dropdown-sm .dropdown-menu {
+  background: #2c3e50;
+}
+#menu-1n .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1n .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1n .bg-color.transparent.opened .link:hover,
+#menu-1n .bg-color.transparent.opened .link:focus {
+  color: #f39c12;
+}
+#menu-1n .link[aria-expanded="true"],
+#menu-1n .dropdown-item[aria-expanded="true"] {
+  color: #f39c12!important;
+}
+#footer2-1o .mbr-section-text {
+  color: #fff;
+}
+#header1-1s .lead {
+  color: #93a3a7;
+  font-style: italic;
+}
+#header1-1s .mbr-section-title {
+  text-align: center;
+}
+#header1-1s .mbr-section-title {
+  letter-spacing: 4px;
+}
+#header9-1t .elements-content {
+  padding-bottom: 50px;
+}
+#header9-1t .mbr-section-subtitle {
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+#header9-1t .mbr-section-title,
+#header9-1t .tab-pane {
+  color: #000;
+}
+#header9-1t .mbr-section-title B {
+  font-size: 46px;
+}
+#header9-1t .mbr-section-title {
+  letter-spacing: 4px;
+}
+#content3-1p .mbr-section-title,
+#content3-1p .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-1p H3 {
+  color: #175a86;
+}
+#content3-1p .mbr-section-title {
+  letter-spacing: 6px;
+  font-size: 45px;
+}
+#form1-1w .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#form1-1w .form-control-label {
+  color: undefined;
+}
+#form1-1w .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+}
+#form1-1w .mbr-section-text {
+  color: #ffffff;
+}
+#form1-1w .mbr-section-text B {
+  color: #ffffff;
+}
+#form1-1w .mbr-section-title {
+  letter-spacing: 6px;
+  font-size: 45px;
+  padding-bottom: 40px;
 }
