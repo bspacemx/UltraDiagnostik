@@ -999,8 +999,30 @@ blockquote {
 #content5-2j .mbr-section-title {
   font-size: 60px;
 }
+#content2-1q P {
+  color: #000000;
+}
+#table1-2k th {
+  color: #9fa3a7;
+}
+#table1-2k table {
+  text-align: justify;
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+#table1-2k .mbr-section-title {
+  letter-spacing: 4px;
+  padding-bottom: 30px;
+}
+#table1-2k .C-Medico {
+  padding-right: 40px;
+}
 #form1-1w .mbr-section-subtitle {
   text-transform: uppercase;
+}
+#form1-1w .form-control-label {
+  color: undefined;
 }
 #form1-1w .mbr-section-title {
   color: #ffffff;

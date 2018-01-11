@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ultra Diagnostik",
-    "currentPage": "ultradiagnostik.html",
+    "currentPage": "equipo-ud.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.5.1",
-    "uniqCompNum": 92,
+    "uniqCompNum": 93,
     "versionPublish": "4.5.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-ud.svg",
     "noImageResize": "",
@@ -1270,7 +1270,7 @@
         {
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "bgColor": "#ffffff"
           },
           "text": "Maestría en dirección estratégica de organizaciones de salud. El doctor José Antonio cuenta con una gran experiencia como responsable sanitario de departamentos de radiología e imagen en instituciones de salud como Cruz Roja Toluca y Grupo Diagnóstico PROA. Es miembro activo de la Sociedad Norteamericana de Radiología (RSNA) y de la Sociedad Europea de Radiología (ESR)<br><br>Actualmente dedica gran parte de su tiempo en compartir sus conocimientos y preparar a las nuevas generaciones, destacando su participación en ponencias como “Parámetros técnicos para una telerradiografía de tórax “ en el “1er Congreso Estatal de la Sociedad de Técnicos Radiólogos del Estado de México”, “Accesos vasculares y procedimientos anestésicos guiados por ultrasonido” en el “V Congreso Bienal del Instituto Materno Infantil del Estado de México” y llevando a cabo el “Primer curso de ultrasonido abdominal básico” en la Cruz Roja Mexicana.",
@@ -1331,8 +1331,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgColor": "#eeeeee"
           },
           "text": "Especializada en radiología convencional y contrastada así como en mastografía con\npreparación especial en realización de ultrasonido abdominal y pélvico básico,\nproveedora de soporte vital básico B.L.S. (Basic Life Support) y proveedora de soporte vital\navanzado pediátrico P.A.L.S. (Pediatric Advenced Life Support). Actualmente es miembro\nactivo de la Federación Nacional de Radiólogos e Imagenólogos (FNRIAC) y del Consejo\nNacional de Técnicos <br>Radiólogos e Imagenólogos (CNTRI).",
@@ -1394,7 +1394,7 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "6",
+            "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
           "text": "Preparada como técnica en radiología e imagen con especialidad en ultrasonido abdominal\nbásico, además de ser profesional en enfermería general con amplia experiencia en\natención a pacientes politraumatizados y en estado crítico.",
@@ -1449,22 +1449,53 @@
             "Theme"
           ],
           "_name": "content2",
-          "_anchor": "content2-1q"
+          "_anchor": "content2-1q",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_customCSS": ""
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "5",
-            "bgColor": "#ffffff"
+            "showTitle": true,
+            "showSearch": false,
+            "rowСount": "6",
+            "colCount": "2",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/flight-mountains-sky-flying.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.4
           },
-          "text1": "<p>Para   ser   especialista   en Radiología e   Imagen (imagenologia diagnóstica y terapéutica) primero se  debe  ser médicogeneral, es  decir, estudiar cuatro o cinco años     en     la     universidad (dependiendo del plan de estudios) hacer un año de  internado  con  guardias  cada  tercer día y  un año de servicio social donde solo se descansa una vez  a  la  semana  brindando atención medica  24 hrs al día.</p>",
-          "text2": "<p>Puede ser médicogeneral en el mejor de los casos o  ser técnicoradiólogo el  cual solo tendrá dos años   de   estudio técnico y algún curso   de ultrasonido básico.</p>",
+          "title": "TABLE",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th>Médico radiólogo</th><th>Ultrasonografista</th></tr></thead><tbody><tr><td>Para ser especialista en Radiología e Imagen (imagenologia diagnóstica y terapéutica) primero se debe ser médicogeneral, es decir, estudiar cuatro o cinco años en la universidad (dependiendo del plan de estudios) hacer un año de internado con guardias cada tercer día y un año de servicio social donde solo se descansa una vez a la semana brindando atención medica 24 hrs al día.</td><td>Puede ser médicogeneral en el mejor de los casos o ser técnicoradiólogo el cual solo tendrá dos años de estudio técnico y algún curso de ultrasonido básico.</td></tr><tr><td>Para entrar a la especialidad se debe presentar un examen  a  nivel  nacional  donde  compites  con 35,000 médicos por  una  de  las  5,000  plazas  de TODAS  las  especialidades médicas,  ojo,  debes estar  titulado  y  tener  cedula  profesional  para ingresar a la especialidad.</td><td>El utrasonografista paga el curso que  lo capacita y dependiendo  de  su  capacidad económica será de  mayor  o  menor  calidad,  esto  significa,  que  la única limitante  para  entrar  a  este  curso  es  el poder adquisitivo.</td></tr><tr><td>La especialidad en Radiologíae Imagen dura entre tres y cuatro años (dependiendo  de  la  sede) y cada  subespecialidad  dura uno o dos años más (dependiendo  de  la  subespecialidad),  donde  se realizan   guardias   cada      tercer díay   se   es supervisado PERMANENTEMENTE por  un  grupo de médicos radiólogos adscritos de    mayor experiencia, en un hospital de alta concentración.</td><td>Un  ultrasonografista  toma  clases  presenciales  o en línea,  entre  dos  y  cinco  veces  a  la  semana,  básicamente en   plataforma   power   point   las cuales son impartidas por ultrasonografistas y sin pacientes ni practica.</td></tr><tr><td>El radiólogo en preparación realiza entre 20 y 30 ultrasonido    diarios    (además de    realizar<br>e interpretar   todas   las demás modalidades   de imagen,     rayos     x     convencionales, estudios contrastados, mastografía, tomografía computada,    resonancia magnética, radióloga intervencionista en todas sus modalidades, entre otros)  por  lo  que  al  finalizar  su especialización habrá realizado    un promedio    de <b>15,000 ultrasonidos</b> en todas sus modalidades.</td><td>El  ultrasonografista hará al  final  del  curso  que tiene  una duración variable  entre seis  y  doce meses  un  promedio  de <b>150 ultrasonidos.</b> Bajo NINGUNA circunstancia podrárealizar o interpretarninguna otra modalidad de imagen.</td></tr><tr><td>Una  vez  terminada la  especialidad  se  debe  de realizar  una tesis  y presentar  un  examen  para la obtención del título y de la cedula de especialista.</td><td>Una vez  terminado  el  curso,  se  les  otorga  un diploma  (sin  realizar  un  examen  de  grado)  y  no cuentan con cedula profesional.</td></tr><tr><td>Ademáscada  5  años  el  medico radiólogo debe presentar un examen de certificación frente a un grupo de expertos en cada subespecialidad de la radiología nombrado por el Consejo Mexicano de Radiología e Imagen quienes determinan el grado de   pericia  y   de actualización médica para  el correcto ejercicio de la especialidad otorgando la certificación.</td><td>Aunque se encuentra perfectamente descrito en la  NOM, no  hay  una  autoridad  que  verifique  o certifique que la persona que realiza ultrasonidos tenga   la formación, experiencia   y   capacidad necesaria  para  la realización de  los  mismos  y mucho menos para su interpretación.</td></tr></tbody>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "content6",
-          "_anchor": "content6-1x"
+          "_name": "table1",
+          "_anchor": "table1-2k",
+          "_customCSS": "@import url(undefined);\nth {\n  color: #9fa3a7;\n}\n\ntable {\n    text-align: justify;\n    display: table;\n    width: 100%;\n    table-layout: fixed;\n}\n\n.mbr-section-title {\n    letter-spacing: 4px;\n    padding-bottom: 30px;\n}\n.C-Medico {\n    padding-right: 40px;\n}",
+          "_customHTML": "<section class=\"mbr-section table1\" data-rv-view=\"78\" style=\"background-color: rgb(255, 255, 255); padding-top: 0; padding-bottom: 120px;\">\n\n    \n\n    <div class=\"container\">\n        <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 46px;\" code-editable-id=\"127\">Diferencias</h3>\n    </div>\n\n    <div class=\"container table-wrapper\" info3-text=\"(filtered from\" data-search=\"false\" search-text=\"Search:\" info1-text=\"Showing\" info2-text=\"entries\" info4-text=\"total entries)\">\n        \n        <table class=\"table mbr-editable-content\" cellspacing=\"0\" width=\"100%\" code-editable-id=\"128\"><thead><tr><th>Médico radiólogo</th><th>Ultrasonografista</th></tr></thead><tbody><tr><td class=\"C-Medico\">Para ser especialista en Radiología e Imagen (imagenologia diagnóstica y terapéutica) primero se debe ser médico general, es decir, estudiar cuatro o cinco años en la universidad (dependiendo del plan de estudios) hacer un año de internado con guardias cada tercer día y un año de servicio social donde solo se descansa una vez a la semana brindando atención medica 24 hrs al día.</td><td>Puede ser médico general en el mejor de los casos o ser técnico radiólogo el cual solo tendrá dos años de estudio técnico y algún curso de ultrasonido básico.</td></tr><tr><td class=\"C-Medico\">Para entrar a la especialidad se debe presentar un examen  a  nivel  nacional  donde  compites  con 35,000 médicos por  una  de  las  5,000  plazas  de TODAS  las  especialidades médicas,  ojo,  debes estar  titulado  y  tener  cedula  profesional  para ingresar a la especialidad.</td><td>El utrasonografista paga el curso que  lo capacita y dependiendo  de  su  capacidad económica será de  mayor  o  menor  calidad,  esto  significa,  que  la única limitante  para  entrar  a  este  curso  es  el poder adquisitivo.</td></tr><tr><td class=\"C-Medico\">La especialidad en Radiología e Imagen dura entre tres y cuatro años (dependiendo  de  la  sede) y cada  subespecialidad  dura uno o dos años más (dependiendo  de  la  subespecialidad),  donde  se realizan   guardias   cada      tercer díay   se   es supervisado PERMANENTEMENTE por  un  grupo de médicos radiólogos adscritos de    mayor experiencia, en un hospital de alta concentración.</td><td>Un  ultrasonografista  toma  clases  presenciales  o en línea,  entre  dos  y  cinco  veces  a  la  semana,  básicamente en   plataforma   power   point   las cuales son impartidas por ultrasonografistas y sin pacientes ni practica.</td></tr><tr><td class=\"C-Medico\">El radiólogo en preparación realiza entre 20 y 30 ultrasonido    diarios    (además de    realizar e interpretar   todas   las demás modalidades   de imagen,     rayos     x     convencionales, estudios contrastados, mastografía, tomografía computada,    resonancia magnética, radióloga intervencionista en todas sus modalidades, entre otros)  por  lo  que  al  finalizar  su especialización habrá realizado    un promedio    de <strong>15,000 ultrasonidos</strong> en todas sus modalidades.</td><td>El  ultrasonografista hará al  final  del  curso  que tiene  una duración variable  entre seis  y  doce meses  un  promedio  de <strong>150 ultrasonidos.</strong> Bajo NINGUNA circunstancia podrárealizar o interpretarninguna otra modalidad de imagen.</td></tr><tr><td class=\"C-Medico\">Una  vez  terminada la  especialidad  se  debe  de realizar  una tesis  y presentar  un  examen  para la obtención del título y de la cedula de especialista.</td><td>Una vez  terminado  el  curso,  se  les  otorga  un diploma  (sin  realizar  un  examen  de  grado)  y  no cuentan con cedula profesional.</td></tr><tr><td class=\"C-Medico\">Además cada  5  años  el  medico radiólogo debe presentar un examen de certificación frente a un grupo de expertos en cada subespecialidad de la radiología nombrado por el Consejo Mexicano de Radiología e Imagen quienes determinan el grado de   pericia  y   de actualización médica para  el correcto ejercicio de la especialidad otorgando la certificación.</td><td>Aunque se encuentra perfectamente descrito en la  NOM, no  hay  una  autoridad  que  verifique  o certifique que la persona que realiza ultrasonidos tenga   la formación, experiencia   y   capacidad necesaria  para  la realización de  los  mismos  y mucho menos para su interpretación.</td></tr></tbody></table>\n        \n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
         },
         {
           "_styles": {
