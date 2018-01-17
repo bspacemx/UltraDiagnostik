@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ultra Diagnostik",
-    "currentPage": "equipo-ud.html",
+    "currentPage": "ultradiagnostik.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -492,7 +492,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/senior-doc-1-600x549.png",
+              "src": "@PROJECT_PATH@/assets/images/dr-nolasco2-600x461.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -574,7 +574,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dra-1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pari-karen-600x461.png",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -585,7 +585,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dra-2-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pari-zuri-600x461.png",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -654,7 +654,7 @@
           },
           "title": "Conoce más de nuestro equipo",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos quaerat omnis amet accusantium accusamus quidems?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black-outline\" href=\"equipo-ud.html#content3-2b\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Equipo UltraDiagnostik</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black-outline\" href=\"equipo-ud.html#header1-1s\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Equipo UltraDiagnostik</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -697,7 +697,7 @@
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "<b>NUESTROS SERVICIOS</b>",
-          "text": "Todos nuestros estudios son ejecutados por personal altamente capacitado e\ninterpretados por médico radiólogo para brindarte la mejor calidad para tu salud.\n<br><i><b><a href=\"page1.html#content3-1p\" target=\"_blank\">¿Porqué elegir un equipo de\nmédicos radiólogos sobre uno de ultrasonografistas?&nbsp;</a></b></i><br><i><b><a href=\"page1.html#content3-1p\" target=\"_blank\"><br></a></b></i>",
+          "text": "Todos nuestros estudios son ejecutados por personal altamente capacitado e\ninterpretados por médico radiólogo para brindarte la mejor calidad para tu salud.&nbsp;<br><i><b><a href=\"page1.html#content3-1p\" target=\"_blank\"><br></a></b></i>",
           "media": {
             "image": {
               "active": true,
