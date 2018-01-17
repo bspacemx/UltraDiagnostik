@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.5.1",
-    "uniqCompNum": 115,
+    "uniqCompNum": 118,
     "versionPublish": "4.5.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-ud.svg",
     "noImageResize": "",
@@ -1235,45 +1235,31 @@
           "_anchor": "footer2-1o"
         },
         {
-          "_styles": {
-            ".lead": {
-              "color": "#93a3a7",
-              "font-style": "italic"
-            },
-            ".mbr-section-title": {
-              "text-align": "center"
-            }
-          },
           "_params": {
             "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "buttonAlign": "right",
-            "showArrow": true,
+            "showCaption": true,
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/senior-doc-consultorio-1999x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/team-2000x1049.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#2c3e50",
+            "bgColor": "#ecf0f1",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
             },
             "overlay": true,
-            "overlayColor": "#2c3e50",
-            "overlayOpacity": 0.9
+            "overlayColor": "#3498db",
+            "overlayOpacity": 0.8
           },
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "<b>NUESTRO EQUIPO</b>",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"https://mobirise.com\">learn more</a>",
-          "alias": "colorm/components",
+          "title": "<br>nuestro equipo<br>",
+          "caption": "<p>Estaremos encantados de atenderte</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-1s",
-          "_customCSS": ".mbr-section-title {\n    letter-spacing: 4px;\n}"
+          "_name": "content5",
+          "_anchor": "content5-39"
         },
         {
           "_styles": {
@@ -1285,7 +1271,7 @@
             "showMeta": true,
             "paddingTop": "4",
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#eeeeee"
           },
           "title": "Dr. José Antonio Hernández Nolasco",
           "meta": "Fundador de Ultra Diagnostik",
@@ -1300,7 +1286,7 @@
             "showText": true,
             "paddingTop": "2",
             "paddingBottom": "3",
-            "bgColor": "#ffffff"
+            "bgColor": "#eeeeee"
           },
           "media": {
             "image": {
@@ -1327,7 +1313,7 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#ffffff"
+            "bgColor": "#eeeeee"
           },
           "text": "Maestría en dirección estratégica de organizaciones de salud. El doctor José Antonio cuenta con una gran experiencia como responsable sanitario de departamentos de radiología e imagen en instituciones de salud como Cruz Roja Toluca y Grupo Diagnóstico PROA. Es miembro activo de la Sociedad Norteamericana de Radiología (RSNA) y de la Sociedad Europea de Radiología (ESR)<br><br>Actualmente dedica gran parte de su tiempo en compartir sus conocimientos y preparar a las nuevas generaciones, destacando su participación en ponencias como “Parámetros técnicos para una telerradiografía de tórax “ en el “1er Congreso Estatal de la Sociedad de Técnicos Radiólogos del Estado de México”, “Accesos vasculares y procedimientos anestésicos guiados por ultrasonido” en el “V Congreso Bienal del Instituto Materno Infantil del Estado de México” y llevando a cabo el “Primer curso de ultrasonido abdominal básico” en la Cruz Roja Mexicana.",
           "alias": "colorm/components",
@@ -1347,7 +1333,7 @@
             "showMeta": true,
             "paddingTop": "4",
             "paddingBottom": "0",
-            "bgColor": "#eeeeee"
+            "bgColor": "#ffffff"
           },
           "title": "P.A.R.I Karen Isabel Flores Fernández",
           "meta": "Técnica radióloga y técnica ultrasonografista",
@@ -1362,7 +1348,7 @@
             "showText": true,
             "paddingTop": "2",
             "paddingBottom": "3",
-            "bgColor": "#eeeeee"
+            "bgColor": "#ffffff"
           },
           "media": {
             "image": {
@@ -1389,7 +1375,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
-            "bgColor": "#eeeeee"
+            "bgColor": "#ffffff"
           },
           "text": "Especializada en radiología convencional y contrastada así como en mastografía con\npreparación especial en realización de ultrasonido abdominal y pélvico básico,\nproveedora de soporte vital básico B.L.S. (Basic Life Support) y proveedora de soporte vital\navanzado pediátrico P.A.L.S. (Pediatric Advenced Life Support). Actualmente es miembro\nactivo de la Federación Nacional de Radiólogos e Imagenólogos (FNRIAC) y del Consejo\nNacional de Técnicos <br>Radiólogos e Imagenólogos (CNTRI).",
           "alias": "colorm/components",
@@ -1409,7 +1395,7 @@
             "showMeta": true,
             "paddingTop": "4",
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#eeeeee"
           },
           "title": "P.A.R.I. Zurisaddai Rodríguez Morales\n",
           "meta": "Técnica radióloga y técnica ultrasonografista",
@@ -1424,7 +1410,7 @@
             "showText": true,
             "paddingTop": "2",
             "paddingBottom": "3",
-            "bgColor": "#ffffff"
+            "bgColor": "#eeeeee"
           },
           "media": {
             "image": {
@@ -1451,7 +1437,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
-            "bgColor": "#ffffff"
+            "bgColor": "#eeeeee"
           },
           "text": "Preparada como técnica en radiología e imagen con especialidad en ultrasonido abdominal\nbásico, además de ser profesional en enfermería general con amplia experiencia en\natención a pacientes politraumatizados y en estado crítico.",
           "alias": "colorm/components",
@@ -1464,49 +1450,41 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubtitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ecf0f1",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
             },
             "overlay": true,
-            "overlayColor": "#ecf0f1",
-            "overlayOpacity": 0.9
-          },
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/ultrasonido-obstetrico-5760x3840.jpg",
-              "class": "",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
+            "overlayColor": "#169581",
+            "overlayOpacity": 0.8
           },
           "title": "VENTAJAS DE UN MÉDICO RADIÓLOGO",
-          "subtitle": "mobirise builder",
-          "text": "Es de suma importancia tener en claro cuáles son las ventajas en tu salud de un equipo de médicos radiólogos sobre uno de ultrasonografistas. El Ultra Diagnostik nos hemos enfocado en crear un equipo de médicos radiólogos para brindarte la mejor calidad en servicios de radiología e imagen para tu salud. ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
-          "alias": "colorm/components",
+          "caption": "<p>Comparativa con un ultrasonografista</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header7",
-          "_anchor": "header7-36",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header7 mbr-section-with-arrow\" data-rv-view=\"182\" style=\"background-color: rgb(236, 240, 241);\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-md-6 col-lg-5 col-lg-offset-1 text-xs-left content-size\">\n\n <!--                    <p class=\"mbr-section-subtitle lead subtitle mbr-editable-content\">mobirise builder</p> -->\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" style=\"font-size: 48px;\" code-editable-id=\"1257\">VENTAJAS DE UN MÉDICO RADIÓLOGO</h1>\n                    <p class=\"mbr-section-text lead mbr-editable-content\" style=\"color: rgb(102, 102, 102);\" code-editable-id=\"1258\">Es de suma importancia tener en claro cuáles son las ventajas en tu salud de un equipo de médicos radiólogos sobre uno de ultrasonografistas. El Ultra Diagnostik nos hemos enfocado en crear un equipo de médicos radiólogos para brindarte la mejor calidad en servicios de radiología e imagen para tu salud. </p>\n                    \n                </div>\n\n                <div class=\"col-xs-12 col-md-6 padding-left-0 padding-right-0 image-size\">\n                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/ultrasonido-obstetrico-5760x3840.jpg\"></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n        <a href=\"#header5-2u\">\n            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown.png\">\n        </a>\n    </div>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "@import url(undefined);\n.mbr-section-subtitle {\n  text-transform: uppercase;\n  color: #9fa3a7;\n}\n.mbr-section-text {\n  color: #9fa3a7;\n  margin-right: 70px;\n}\n.mbr-section-title {\n  color: #242424;\n  font-weight: bold;\n  font-size: 46px;\n}\n\nh1 {\n    margin-top: 100px;\n    line-height: 65px;\n}",
-          "_customTemplate": true
+          "_name": "content5",
+          "_anchor": "content5-37",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px",
+              "text-align": "center",
+              "color": "#000000"
+            },
+            "P": {
+              "font-size": "20px",
+              "text-align": "center",
+              "color": "#333333"
+            }
+          }
         },
         {
           "_styles": {
@@ -1534,20 +1512,20 @@
             "showTitles": true,
             "tabs": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/medicoradiologo-1021x785.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/hospital-x-ray-scanner-plupyzw-2000x1379.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#1c435c",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
             "overlayColor": "#1c435c",
-            "overlayOpacity": "0.9"
+            "overlayOpacity": "0.8"
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "Médico<br><b>Radiólogo</b><br>",
+          "title": "Médico<br><b>Radiólogo</b><b><br></b><br>",
           "title1": "ALTAMENTE PREPARADO",
           "title2": "RIGUROSA COMPETENCIA",
           "title3": "PREPARACIÓN EXTENSA",
@@ -1664,20 +1642,20 @@
             "showTitles": true,
             "tabs": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/paying-with-credit-card-online-phch4r7-2000x1335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ultrasonido-obstetrico-3-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#333333",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
             "overlayColor": "#232323",
-            "overlayOpacity": 0.9
+            "overlayOpacity": "0.8"
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "<b>Ultrasonografista</b>",
+          "title": "<b>Ultrasonografista</b><br><b><br></b>",
           "title1": "CON O SIN PROFESIÓN",
           "title2": "SIN OBSTÁCULOS",
           "title3": "POCA PRÁCTICA",
@@ -1773,6 +1751,10 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "18px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#f39c12",
+              "font-size": "14px"
             }
           },
           "_params": {

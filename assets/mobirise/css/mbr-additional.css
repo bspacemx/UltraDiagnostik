@@ -980,16 +980,6 @@ blockquote {
 #footer2-1o .mbr-section-text {
   color: #fff;
 }
-#header1-1s .lead {
-  color: #93a3a7;
-  font-style: italic;
-}
-#header1-1s .mbr-section-title {
-  text-align: center;
-}
-#header1-1s .mbr-section-title {
-  letter-spacing: 4px;
-}
 #content3-2b .mbr-section-title,
 #content3-2b .mbr-section-subtitle {
   text-align: center;
@@ -1002,22 +992,15 @@ blockquote {
 #content3-2g .mbr-section-subtitle {
   text-align: center;
 }
-#header7-36 .mbr-section-subtitle {
-  text-transform: uppercase;
-  color: #9fa3a7;
+#content5-37 .mbr-section-title {
+  font-size: 60px;
+  text-align: center;
+  color: #000000;
 }
-#header7-36 .mbr-section-text {
-  color: #9fa3a7;
-  margin-right: 70px;
-}
-#header7-36 .mbr-section-title {
-  color: #242424;
-  font-weight: bold;
-  font-size: 46px;
-}
-#header7-36 h1 {
-  margin-top: 100px;
-  line-height: 65px;
+#content5-37 P {
+  font-size: 20px;
+  text-align: center;
+  color: #333333;
 }
 #header5-2u .elements-content {
   padding-bottom: 140px;
@@ -1057,6 +1040,10 @@ blockquote {
 }
 #contacts2-2m .mbr-section-title {
   font-size: 18px;
+}
+#contacts2-2m .mbr-section-subtitle {
+  color: #f39c12;
+  font-size: 14px;
 }
 #contacts2-2m .mbr-section-subtitle {
   margin-top: 50px;
