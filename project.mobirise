@@ -163,7 +163,7 @@
             "showArrow": true,
             "iconsColor": "#ffffff",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/senior-doc-consultorio-1999x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/senior-doc_consultorio-1999x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#8e44ad",
@@ -175,7 +175,7 @@
             "overlayColor": "#333333",
             "overlayOpacity": 0.9
           },
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
           "title": "ULTRA<br>DIAGNOSTIK",
           "text": "radiología",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
@@ -492,7 +492,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dr-nolasco2-600x461.png",
+              "src": "@PROJECT_PATH@/assets/images/dr_nolasco2-600x461.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -574,7 +574,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pari-karen-600x461.png",
+              "src": "@PROJECT_PATH@/assets/images/pari_karen-600x461.png",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -585,7 +585,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pari-zuri-600x461.png",
+              "src": "@PROJECT_PATH@/assets/images/pari_zuri-600x461.png",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -695,7 +695,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.9
           },
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
           "title": "<b>NUESTROS SERVICIOS</b>",
           "text": "Todos nuestros estudios son ejecutados por personal altamente capacitado e\ninterpretados por médico radiólogo para brindarte la mejor calidad para tu salud.&nbsp;<br><i><b><a href=\"page1.html#content3-1p\" target=\"_blank\"><br></a></b></i>",
           "media": {
@@ -982,7 +982,7 @@
             "overlayColor": "#ecf0f1",
             "overlayOpacity": 0.9
           },
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
           "media": {
             "image": {
               "src": "@THEME_PATH@/components/_images/features/03.jpg",
@@ -1037,9 +1037,9 @@
             "overlayColor": "#ecf0f1",
             "overlayOpacity": 0.5
           },
-          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
-          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
-          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "iconName": "<img src=\"@THEME_PATH@/components/_images/form/icon-name.png\">",
+          "iconEmail": "<img src=\"@THEME_PATH@/components/_images/form/icon-email.png\">",
+          "iconPhone": "<img src=\"@THEME_PATH@/components/_images/form/icon-phone.png\">",
           "title": "<b>SERÁ UN HONOR ATENDERTE</b>",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "text": "Dr. Genaro Díaz Mañón s/n. Colonia La Trinidad, Tenancingo, México. C.P. 52400<br>(722) 581-38-07 &nbsp; | &nbsp;&nbsp;<b>contacto@ultradiagnostik.com</b><br><b><br></b>",
@@ -1291,7 +1291,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dr-nolasco-1-1021x785.png",
+              "src": "@PROJECT_PATH@/assets/images/dr_nolasco-1-1021x785.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -1353,7 +1353,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pari-karen-1021x785.png",
+              "src": "@PROJECT_PATH@/assets/images/pari_karen-1021x785.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -1415,7 +1415,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pari-zuri-1021x785.png",
+              "src": "@PROJECT_PATH@/assets/images/pari_zuri-1021x785.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -1524,7 +1524,7 @@
             "overlayColor": "#1c435c",
             "overlayOpacity": "0.8"
           },
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
           "title": "Médico<br><b>Radiólogo</b><b><br></b><br>",
           "title1": "ALTAMENTE PREPARADO",
           "title2": "RIGUROSA COMPETENCIA",
@@ -1654,7 +1654,7 @@
             "overlayColor": "#232323",
             "overlayOpacity": "0.8"
           },
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
           "title": "<b>Ultrasonografista</b><br><b><br></b>",
           "title1": "CON O SIN PROFESIÓN",
           "title2": "SIN OBSTÁCULOS",
@@ -1784,7 +1784,7 @@
             "overlayColor": "#ecf0f1",
             "overlayOpacity": 0.9
           },
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
           "media": {
             "image": {
               "src": "@THEME_PATH@/components/_images/features/03.jpg",
@@ -1839,9 +1839,9 @@
             "overlayColor": "#ecf0f1",
             "overlayOpacity": 0.5
           },
-          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
-          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
-          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "iconName": "<img src=\"@THEME_PATH@/components/_images/form/icon-name.png\">",
+          "iconEmail": "<img src=\"@THEME_PATH@/components/_images/form/icon-email.png\">",
+          "iconPhone": "<img src=\"@THEME_PATH@/components/_images/form/icon-phone.png\">",
           "title": "<b>SERÁ UN HONOR ATENDERTE</b>",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "text": "Dr. Genaro Díaz Mañón s/n. Colonia La Trinidad, Tenancingo, México. C.P. 52400<br>(722) 581-38-07 &nbsp; | &nbsp;&nbsp;<b>contacto@ultradiagnostik.com</b><br><b><br></b>",
