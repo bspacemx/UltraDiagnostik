@@ -8,10 +8,10 @@
       "styling": {
         "primaryColor": "#f39c12",
         "buttonsColor": "#000000",
-        "secondaryColor": "#9b59b6",
-        "successColor": "#2ecc71",
-        "infoColor": "#3498db",
-        "warningColor": "#f1c40f",
+        "secondaryColor": "#ffffff",
+        "successColor": "#000000",
+        "infoColor": "#2ba0eb",
+        "warningColor": "#f39c12",
         "dangerColor": "#e74c3c",
         "titleFont": "Poppins",
         "subtitleFont": "Montserrat",
@@ -21,17 +21,17 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
-        "#1c6da1",
-        "#52779e",
         "#1c435c",
-        "#245c81",
-        "#f3a224",
-        "#2291d9",
-        "#dd8814"
+        "#454545",
+        "#232323",
+        "#4fafed",
+        "#2ba0eb",
+        "#ededed",
+        "#1c6da1"
       ]
     },
     "versionFirst": "4.5.1",
-    "uniqCompNum": 93,
+    "uniqCompNum": 115,
     "versionPublish": "4.5.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-ud.svg",
     "noImageResize": "",
@@ -951,6 +951,62 @@
         },
         {
           "_styles": {
+            ".mbr-section-title": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showCat1": true,
+            "showCat2": true,
+            "showCat3": true,
+            "showText": false,
+            "showButtons": true,
+            "googleMap": {
+              "address": "Dr. Genaro Díaz Mañón s/n. Colonia La Trinidad, Tenancingo, México",
+              "placeId": "ChIJdePik3SVzYURXcH7B1nZwlk",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/features/03.jpg",
+              "class": ""
+            }
+          },
+          "title1": "Dr. Genaro Díaz Mañón s/n. Colonia La Trinidad,<br>Tenancingo, México. C.P. 52400\n",
+          "title2": "(722) 581-38-07",
+          "title3": "contacto@ultradiagnostik.com",
+          "cat1": "dirección",
+          "cat2": "teléfono",
+          "cat3": "correo",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos sunt, dolorum similique facere, vitae ea quod, velit est, maiores cupiditate repudiandae! Laboriosam, aliquid ea a magnam sunt eum corrupti totam rem alias dolor ipsum dignissimos.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-skype\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-2l",
+          "_customCSS": ".mbr-section-subtitle {\n    margin-top: 50px;\n}"
+        },
+        {
+          "_styles": {
             ".mbr-section-subtitle": {
               "text-transform": "uppercase"
             },
@@ -969,7 +1025,7 @@
           "_params": {
             "showSubtitle": false,
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -1208,7 +1264,7 @@
             "overlayOpacity": 0.9
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "<b>ULTRA DIAGNOSTIK</b>",
+          "title": "<b>NUESTRO EQUIPO</b>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"https://mobirise.com\">learn more</a>",
           "alias": "colorm/components",
@@ -1249,7 +1305,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/511583494-1400x918.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dr-nolasco-1-1021x785.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -1311,7 +1367,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/doctor-467179149-56b08aaf3df78cf772cf9262-1280x853.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pari-karen-1021x785.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -1373,7 +1429,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/doctora02-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pari-zuri-1021x785.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -1408,94 +1464,366 @@
         {
           "_params": {
             "showTitle": true,
-            "showCaption": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ultrasonido-obstetrico-3-2000x1333.jpg",
+            "showSubtitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#ecf0f1",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
             },
             "overlay": true,
-            "overlayColor": "#1c6da1",
-            "overlayOpacity": 0.8
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
           },
-          "title": "Ventajas de un médico radiólogo<br>",
-          "caption": "<p>Article header with background image and parallax effect.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-2j",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ultrasonido-obstetrico-5760x3840.jpg",
+              "class": "",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "1",
-            "bgColor": "#ffffff"
           },
-          "text": "<p>Es de suma importancia tener en claro cuáles son las ventajas en tu salud de un equipo\n&nbsp;<span style=\"font-size: 1rem;\">de médicos radiólogos sobre uno de ultrasonografistas. El Ultra Diagnostik nos hemos&nbsp;</span><span style=\"font-size: 1rem;\">enfocado en crear un equipo de médicos radiólogos para brindarte la mejor calidad&nbsp;</span><span style=\"font-size: 1rem;\">en servicios de radiología e imagen para tu salud.&nbsp;</span></p>",
+          "title": "VENTAJAS DE UN MÉDICO RADIÓLOGO",
+          "subtitle": "mobirise builder",
+          "text": "Es de suma importancia tener en claro cuáles son las ventajas en tu salud de un equipo de médicos radiólogos sobre uno de ultrasonografistas. El Ultra Diagnostik nos hemos enfocado en crear un equipo de médicos radiólogos para brindarte la mejor calidad en servicios de radiología e imagen para tu salud. ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "content2",
-          "_anchor": "content2-1q",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            }
-          },
-          "_customCSS": ""
+          "_name": "header7",
+          "_anchor": "header7-36",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header7 mbr-section-with-arrow\" data-rv-view=\"182\" style=\"background-color: rgb(236, 240, 241);\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-md-6 col-lg-5 col-lg-offset-1 text-xs-left content-size\">\n\n <!--                    <p class=\"mbr-section-subtitle lead subtitle mbr-editable-content\">mobirise builder</p> -->\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" style=\"font-size: 48px;\" code-editable-id=\"1257\">VENTAJAS DE UN MÉDICO RADIÓLOGO</h1>\n                    <p class=\"mbr-section-text lead mbr-editable-content\" style=\"color: rgb(102, 102, 102);\" code-editable-id=\"1258\">Es de suma importancia tener en claro cuáles son las ventajas en tu salud de un equipo de médicos radiólogos sobre uno de ultrasonografistas. El Ultra Diagnostik nos hemos enfocado en crear un equipo de médicos radiólogos para brindarte la mejor calidad en servicios de radiología e imagen para tu salud. </p>\n                    \n                </div>\n\n                <div class=\"col-xs-12 col-md-6 padding-left-0 padding-right-0 image-size\">\n                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/ultrasonido-obstetrico-5760x3840.jpg\"></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n        <a href=\"#header5-2u\">\n            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown.png\">\n        </a>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(undefined);\n.mbr-section-subtitle {\n  text-transform: uppercase;\n  color: #9fa3a7;\n}\n.mbr-section-text {\n  color: #9fa3a7;\n  margin-right: 70px;\n}\n.mbr-section-title {\n  color: #242424;\n  font-weight: bold;\n  font-size: 46px;\n}\n\nh1 {\n    margin-top: 100px;\n    line-height: 65px;\n}",
+          "_customTemplate": true
         },
         {
+          "_styles": {
+            ".elements-content": {
+              "padding-bottom": "140px"
+            },
+            ".mbr-section-subtitle": {
+              "letter-spacing": "2px",
+              "margin-bottom": "10px",
+              "font-weight": "700"
+            },
+            ".mbr-section-title, .tab-pane": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "margin-bottom": "60px"
+            },
+            ".nav-tabs": {
+              "margin-top": "90px"
+            }
+          },
           "_params": {
-            "showTitle": true,
-            "showSearch": false,
-            "rowСount": "6",
-            "colCount": "2",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/flight-mountains-sky-flying.jpg",
+            "showHeader": true,
+            "showImages": true,
+            "showTitles": true,
+            "tabs": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/medicoradiologo-1021x785.png",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.4
+            "overlay": true,
+            "overlayColor": "#1c435c",
+            "overlayOpacity": "0.9"
           },
-          "title": "TABLE",
-          "search": "Search:",
-          "info1": "Showing",
-          "info2": "entries",
-          "info3": "(filtered from",
-          "info4": "total entries)",
-          "table": "<thead><tr><th>Médico radiólogo</th><th>Ultrasonografista</th></tr></thead><tbody><tr><td>Para ser especialista en Radiología e Imagen (imagenologia diagnóstica y terapéutica) primero se debe ser médicogeneral, es decir, estudiar cuatro o cinco años en la universidad (dependiendo del plan de estudios) hacer un año de internado con guardias cada tercer día y un año de servicio social donde solo se descansa una vez a la semana brindando atención medica 24 hrs al día.</td><td>Puede ser médicogeneral en el mejor de los casos o ser técnicoradiólogo el cual solo tendrá dos años de estudio técnico y algún curso de ultrasonido básico.</td></tr><tr><td>Para entrar a la especialidad se debe presentar un examen  a  nivel  nacional  donde  compites  con 35,000 médicos por  una  de  las  5,000  plazas  de TODAS  las  especialidades médicas,  ojo,  debes estar  titulado  y  tener  cedula  profesional  para ingresar a la especialidad.</td><td>El utrasonografista paga el curso que  lo capacita y dependiendo  de  su  capacidad económica será de  mayor  o  menor  calidad,  esto  significa,  que  la única limitante  para  entrar  a  este  curso  es  el poder adquisitivo.</td></tr><tr><td>La especialidad en Radiologíae Imagen dura entre tres y cuatro años (dependiendo  de  la  sede) y cada  subespecialidad  dura uno o dos años más (dependiendo  de  la  subespecialidad),  donde  se realizan   guardias   cada      tercer díay   se   es supervisado PERMANENTEMENTE por  un  grupo de médicos radiólogos adscritos de    mayor experiencia, en un hospital de alta concentración.</td><td>Un  ultrasonografista  toma  clases  presenciales  o en línea,  entre  dos  y  cinco  veces  a  la  semana,  básicamente en   plataforma   power   point   las cuales son impartidas por ultrasonografistas y sin pacientes ni practica.</td></tr><tr><td>El radiólogo en preparación realiza entre 20 y 30 ultrasonido    diarios    (además de    realizar<br>e interpretar   todas   las demás modalidades   de imagen,     rayos     x     convencionales, estudios contrastados, mastografía, tomografía computada,    resonancia magnética, radióloga intervencionista en todas sus modalidades, entre otros)  por  lo  que  al  finalizar  su especialización habrá realizado    un promedio    de <b>15,000 ultrasonidos</b> en todas sus modalidades.</td><td>El  ultrasonografista hará al  final  del  curso  que tiene  una duración variable  entre seis  y  doce meses  un  promedio  de <b>150 ultrasonidos.</b> Bajo NINGUNA circunstancia podrárealizar o interpretarninguna otra modalidad de imagen.</td></tr><tr><td>Una  vez  terminada la  especialidad  se  debe  de realizar  una tesis  y presentar  un  examen  para la obtención del título y de la cedula de especialista.</td><td>Una vez  terminado  el  curso,  se  les  otorga  un diploma  (sin  realizar  un  examen  de  grado)  y  no cuentan con cedula profesional.</td></tr><tr><td>Ademáscada  5  años  el  medico radiólogo debe presentar un examen de certificación frente a un grupo de expertos en cada subespecialidad de la radiología nombrado por el Consejo Mexicano de Radiología e Imagen quienes determinan el grado de   pericia  y   de actualización médica para  el correcto ejercicio de la especialidad otorgando la certificación.</td><td>Aunque se encuentra perfectamente descrito en la  NOM, no  hay  una  autoridad  que  verifique  o certifique que la persona que realiza ultrasonidos tenga   la formación, experiencia   y   capacidad necesaria  para  la realización de  los  mismos  y mucho menos para su interpretación.</td></tr></tbody>",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "Médico<br><b>Radiólogo</b><br>",
+          "title1": "ALTAMENTE PREPARADO",
+          "title2": "RIGUROSA COMPETENCIA",
+          "title3": "PREPARACIÓN EXTENSA",
+          "title4": "PRUEBAS FINALES",
+          "title5": "CERTIFICACIÓN CONTINUA",
+          "title6": "CONTACT FORMS",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header5-2u\" aria-expanded=\"true\">EDUCACIÓN</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header5-2u\" aria-expanded=\"false\">RIGUROSIDAD</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header5-2u\" aria-expanded=\"false\">PREPARACIÓN</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header5-2u\" aria-expanded=\"false\">PRUEBAS</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header5-2u\" aria-expanded=\"false\">CERTIFICACIÓN</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header5-2u\">Beautiful</a></li>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "glases-2",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "year-aniversary-23",
+              "family": "icon54-v2",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "done-award-badge",
+              "family": "icon54-v2",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "compose-mail1",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "genius",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "text1": "Es médico cirujano de profesión (7 años de carrera universitaria) con una especialidad en Radiología e Imagen de 3 o 4 años.",
+          "text2": "Para poder realizar la especialidad, necesita competir con 35,000 médicos para obtener una de las 5,000 plazas disponibles para <b>TODAS</b> las especialidades",
+          "text3": "Sin contar el resto de las modalidades de imagen que un Radiólogo ve durante su formación (rayos X, mastografía, resonancia magnética, tomografía) al final la especialidad habrá hecho un promedio de 15,000 ultrasonidos en todas sus modalidades.",
+          "text4": "Una vez terminada la especialidad se debe realizar tesis y presentar un examen para obtener el título y cedula de especialista.",
+          "text5": "El Medico Radiólogo debe presentar cada 5 años un examen de certificación ante el Consejo Mexicano de Radiología e Imagen para garantizar que cuenta con los suficientes conocimientos para el ejercicio de la radiología.",
+          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "table1",
-          "_anchor": "table1-2k",
-          "_customCSS": "@import url(undefined);\nth {\n  color: #9fa3a7;\n}\n\ntable {\n    text-align: justify;\n    display: table;\n    width: 100%;\n    table-layout: fixed;\n}\n\n.mbr-section-title {\n    letter-spacing: 4px;\n    padding-bottom: 30px;\n}\n.C-Medico {\n    padding-right: 40px;\n}",
-          "_customHTML": "<section class=\"mbr-section table1\" data-rv-view=\"78\" style=\"background-color: rgb(255, 255, 255); padding-top: 0; padding-bottom: 120px;\">\n\n    \n\n    <div class=\"container\">\n        <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 46px;\" code-editable-id=\"127\">Diferencias</h3>\n    </div>\n\n    <div class=\"container table-wrapper\" info3-text=\"(filtered from\" data-search=\"false\" search-text=\"Search:\" info1-text=\"Showing\" info2-text=\"entries\" info4-text=\"total entries)\">\n        \n        <table class=\"table mbr-editable-content\" cellspacing=\"0\" width=\"100%\" code-editable-id=\"128\"><thead><tr><th>Médico radiólogo</th><th>Ultrasonografista</th></tr></thead><tbody><tr><td class=\"C-Medico\">Para ser especialista en Radiología e Imagen (imagenologia diagnóstica y terapéutica) primero se debe ser médico general, es decir, estudiar cuatro o cinco años en la universidad (dependiendo del plan de estudios) hacer un año de internado con guardias cada tercer día y un año de servicio social donde solo se descansa una vez a la semana brindando atención medica 24 hrs al día.</td><td>Puede ser médico general en el mejor de los casos o ser técnico radiólogo el cual solo tendrá dos años de estudio técnico y algún curso de ultrasonido básico.</td></tr><tr><td class=\"C-Medico\">Para entrar a la especialidad se debe presentar un examen  a  nivel  nacional  donde  compites  con 35,000 médicos por  una  de  las  5,000  plazas  de TODAS  las  especialidades médicas,  ojo,  debes estar  titulado  y  tener  cedula  profesional  para ingresar a la especialidad.</td><td>El utrasonografista paga el curso que  lo capacita y dependiendo  de  su  capacidad económica será de  mayor  o  menor  calidad,  esto  significa,  que  la única limitante  para  entrar  a  este  curso  es  el poder adquisitivo.</td></tr><tr><td class=\"C-Medico\">La especialidad en Radiología e Imagen dura entre tres y cuatro años (dependiendo  de  la  sede) y cada  subespecialidad  dura uno o dos años más (dependiendo  de  la  subespecialidad),  donde  se realizan   guardias   cada      tercer díay   se   es supervisado PERMANENTEMENTE por  un  grupo de médicos radiólogos adscritos de    mayor experiencia, en un hospital de alta concentración.</td><td>Un  ultrasonografista  toma  clases  presenciales  o en línea,  entre  dos  y  cinco  veces  a  la  semana,  básicamente en   plataforma   power   point   las cuales son impartidas por ultrasonografistas y sin pacientes ni practica.</td></tr><tr><td class=\"C-Medico\">El radiólogo en preparación realiza entre 20 y 30 ultrasonido    diarios    (además de    realizar e interpretar   todas   las demás modalidades   de imagen,     rayos     x     convencionales, estudios contrastados, mastografía, tomografía computada,    resonancia magnética, radióloga intervencionista en todas sus modalidades, entre otros)  por  lo  que  al  finalizar  su especialización habrá realizado    un promedio    de <strong>15,000 ultrasonidos</strong> en todas sus modalidades.</td><td>El  ultrasonografista hará al  final  del  curso  que tiene  una duración variable  entre seis  y  doce meses  un  promedio  de <strong>150 ultrasonidos.</strong> Bajo NINGUNA circunstancia podrárealizar o interpretarninguna otra modalidad de imagen.</td></tr><tr><td class=\"C-Medico\">Una  vez  terminada la  especialidad  se  debe  de realizar  una tesis  y presentar  un  examen  para la obtención del título y de la cedula de especialista.</td><td>Una vez  terminado  el  curso,  se  les  otorga  un diploma  (sin  realizar  un  examen  de  grado)  y  no cuentan con cedula profesional.</td></tr><tr><td class=\"C-Medico\">Además cada  5  años  el  medico radiólogo debe presentar un examen de certificación frente a un grupo de expertos en cada subespecialidad de la radiología nombrado por el Consejo Mexicano de Radiología e Imagen quienes determinan el grado de   pericia  y   de actualización médica para  el correcto ejercicio de la especialidad otorgando la certificación.</td><td>Aunque se encuentra perfectamente descrito en la  NOM, no  hay  una  autoridad  que  verifique  o certifique que la persona que realiza ultrasonidos tenga   la formación, experiencia   y   capacidad necesaria  para  la realización de  los  mismos  y mucho menos para su interpretación.</td></tr></tbody></table>\n        \n    </div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customTemplate": true
+          "_name": "header5",
+          "_anchor": "header5-2u"
+        },
+        {
+          "_styles": {
+            ".elements-content": {
+              "padding-bottom": "140px"
+            },
+            ".mbr-section-subtitle": {
+              "letter-spacing": "2px",
+              "margin-bottom": "10px",
+              "font-weight": "700"
+            },
+            ".mbr-section-title, .tab-pane": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "margin-bottom": "60px"
+            },
+            ".nav-tabs": {
+              "margin-top": "90px"
+            }
+          },
+          "_params": {
+            "showHeader": true,
+            "showImages": true,
+            "showTitles": true,
+            "tabs": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/paying-with-credit-card-online-phch4r7-2000x1335.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#232323",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "<b>Ultrasonografista</b>",
+          "title1": "CON O SIN PROFESIÓN",
+          "title2": "SIN OBSTÁCULOS",
+          "title3": "POCA PRÁCTICA",
+          "title4": "SIN PRUEBAS FINALES",
+          "title5": "SIN AUTORIDAD",
+          "title6": "CONTACT FORMS",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header5-2x\" aria-expanded=\"false\">educación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header5-2x\" aria-expanded=\"false\">rigurosidad</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header5-2x\" aria-expanded=\"true\">preparación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header5-2x\" aria-expanded=\"false\">pruebas</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header5-2x\" aria-expanded=\"false\">certificación</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header5-2x\">Beautiful</a></li>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "rubber-duck",
+              "family": "icon54-v3",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "wire-mouse",
+              "family": "icon54-v3",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "dismiss-award-badge",
+              "family": "icon54-v2",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "hiden-file",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "announcement",
+              "family": "icon54-v4",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "text1": "Puede o no ser médico y realizar un curso de meses o máximo un año de ultrasonido.",
+          "text2": "Para realizar un curso de ultrasonido solo necesita pagarlo y la calidad del curso dependerá del poder adquisitivo de quien lo realiza.",
+          "text3": "Un ultrasonografista habrá realizado al terminar su cuso un promedio de 150 ultrasonidos (dependiendo de la duración y calidad del curso) y bajo ninguna circunstancia PODRÁ interpretar ninguna otra modalidad de estudio.",
+          "text4": "Una vez terminado el curso, se les otorga un diploma sin ningún tipo de examinación y no cuentan con cédula profesional.",
+          "text5": "Para fines prácticos no existe una autoridad que verifique ni certifique que la persona que realiza ultrasonidos tenga los conocimientos necesarios para la realización de los mismos ni para su interpretación.",
+          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-2x"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showCat1": true,
+            "showCat2": true,
+            "showCat3": true,
+            "showText": false,
+            "showButtons": true,
+            "googleMap": {
+              "address": "Dr. Genaro Díaz Mañón s/n. Colonia La Trinidad, Tenancingo, México",
+              "placeId": "ChIJdePik3SVzYURXcH7B1nZwlk",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/features/03.jpg",
+              "class": ""
+            }
+          },
+          "title1": "Dr. Genaro Díaz Mañón s/n. Colonia La Trinidad,<br>Tenancingo, México. C.P. 52400\n",
+          "title2": "(722) 581-38-07",
+          "title3": "contacto@ultradiagnostik.com",
+          "cat1": "dirección",
+          "cat2": "teléfono",
+          "cat3": "correo",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos sunt, dolorum similique facere, vitae ea quod, velit est, maiores cupiditate repudiandae! Laboriosam, aliquid ea a magnam sunt eum corrupti totam rem alias dolor ipsum dignissimos.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-skype\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_customCSS": ".mbr-section-subtitle {\n    margin-top: 50px;\n}",
+          "_anchor": "contacts2-2m"
         },
         {
           "_styles": {
@@ -1517,7 +1845,7 @@
           "_params": {
             "showSubtitle": false,
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
