@@ -734,11 +734,11 @@ blockquote {
   color: #ffffff;
 }
 #menu-0 .link {
-  font-size: 0.875rem;
+  font-size: 0.95rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.948rem;
+  font-size: 1.029rem;
 }
 #menu-0 .link:hover,
 #menu-0 .link:focus {
@@ -884,6 +884,10 @@ blockquote {
   font-size: 18px;
 }
 #contacts2-2l .mbr-section-subtitle {
+  color: #f39c12;
+  font-size: 14px;
+}
+#contacts2-2l .mbr-section-subtitle {
   margin-top: 50px;
 }
 #form1-v .mbr-section-subtitle {
@@ -928,11 +932,11 @@ blockquote {
   color: #ffffff;
 }
 #menu-1n .link {
-  font-size: 0.875rem;
+  font-size: 0.95rem;
 }
 #menu-1n .dropdown-item,
 #menu-1n .nav-dropdown-sm .link {
-  font-size: 0.948rem;
+  font-size: 1.029rem;
 }
 #menu-1n .link:hover,
 #menu-1n .link:focus {
@@ -980,6 +984,9 @@ blockquote {
 #footer2-1o .mbr-section-text {
   color: #fff;
 }
+#content5-39 P {
+  font-size: 24px;
+}
 #content3-2b .mbr-section-title,
 #content3-2b .mbr-section-subtitle {
   text-align: center;
@@ -1016,27 +1023,16 @@ blockquote {
 }
 #header5-2u .mbr-section-title {
   margin-bottom: 60px;
+  font-size: 72px;
 }
 #header5-2u .nav-tabs {
   margin-top: 90px;
 }
-#header5-2x .elements-content {
-  padding-bottom: 140px;
+#header5-2u .mbr-section-title B {
+  font-size: 72px;
 }
-#header5-2x .mbr-section-subtitle {
-  letter-spacing: 2px;
-  margin-bottom: 10px;
-  font-weight: 700;
-}
-#header5-2x .mbr-section-title,
-#header5-2x .tab-pane {
-  color: #fff;
-}
-#header5-2x .mbr-section-title {
-  margin-bottom: 60px;
-}
-#header5-2x .nav-tabs {
-  margin-top: 90px;
+#header5-2u B {
+  font-size: 24px;
 }
 #contacts2-2m .mbr-section-title {
   font-size: 18px;

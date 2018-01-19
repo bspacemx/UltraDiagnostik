@@ -70,10 +70,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.875rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.948rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -115,7 +115,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#333333",
-            "fontSize": 0.875,
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -163,7 +163,7 @@
             "showArrow": true,
             "iconsColor": "#ffffff",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/senior-doc_consultorio-1999x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/senior-doc-consultorio-1999x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#8e44ad",
@@ -175,7 +175,7 @@
             "overlayColor": "#333333",
             "overlayOpacity": 0.9
           },
-          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "ULTRA<br>DIAGNOSTIK",
           "text": "radiología",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
@@ -426,7 +426,7 @@
           "_name": "features3",
           "_anchor": "features3-12",
           "_customCSS": ".mbr-section-title {\n  font-weight: 700;\n  color: #3ea3e4;\n  font-size: 60px;\n}\n.mbr-section-subtitle {\n  text-transform: uppercase;\n  letter-spacing: 2px;\n  color: #3ea3e4;\n}\n.mbr-section-text {\n  color: #666666;\n}\n.mbr-section-title {\n    letter-spacing: 6px;\n    font-size: 45px;\n}\n\n.mbr-figure-background {\n    background: none;\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero features4\" data-rv-view=\"80\" style=\"background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-8 col-lg-offset-2 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"62\">VALORES</h1>\n\n                </div>\n            </div>\n\n            <div class=\"mbr-cards-row row\">\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"icon54-v4-handshake mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"63\">Honestidad</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"icon54-v4-star mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"64\">calidad</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                  </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"icon54-v4-hand mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"65\">compromiso social</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"icon54-v4-thumbs-up mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"66\">excelencia</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"icon54-v1-happy-wink mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"67\">servicio</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"icon54-v1-atom mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"68\">inovación</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero features4\" data-rv-view=\"80\" style=\"background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-8 col-lg-offset-2 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"27\">VALORES</h1>\n\n                </div>\n            </div>\n\n            <div class=\"mbr-cards-row row\">\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"icon54-v4-handshake mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"28\">Honestidad</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"icon54-v4-star mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"29\">calidad</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                  </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"icon54-v4-hand mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"30\">compromiso social</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"icon54-v4-thumbs-up mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"31\">excelencia</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"icon54-v1-happy-wink mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"32\">servicio</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"icon54-v1-atom mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"33\">innovación</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
@@ -492,7 +492,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dr_nolasco2-600x461.png",
+              "src": "@PROJECT_PATH@/assets/images/dr-nolasco2-600x461.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -574,7 +574,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pari_karen-600x461.png",
+              "src": "@PROJECT_PATH@/assets/images/pari-zuri2-600x461.png",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -585,7 +585,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pari_zuri-600x461.png",
+              "src": "@PROJECT_PATH@/assets/images/pari-karen-600x461.png",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -695,7 +695,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.9
           },
-          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "<b>NUESTROS SERVICIOS</b>",
           "text": "Todos nuestros estudios son ejecutados por personal altamente capacitado e\ninterpretados por médico radiólogo para brindarte la mejor calidad para tu salud.&nbsp;<br><i><b><a href=\"page1.html#content3-1p\" target=\"_blank\"><br></a></b></i>",
           "media": {
@@ -722,7 +722,7 @@
           "title61": "TRENDY WEBSITE BLOCKS",
           "title62": "TRENDY WEBSITE BLOCKS",
           "title63": "TRENDY WEBSITE BLOCKS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs2-1f\" aria-expanded=\"true\">actuales</a></li><li class=\"nav-item nav-item-last\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs2-1f\" aria-expanded=\"false\">próximos</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs2-1f\">Animated</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs2-1f\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs2-1f\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs2-1f\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs2-1f\" aria-expanded=\"false\">actuales</a></li><li class=\"nav-item nav-item-last\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs2-1f\" aria-expanded=\"true\">próximos</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs2-1f\">Animated</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs2-1f\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs2-1f\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs2-1f\">Beautiful</a></li>",
           "media11": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header5",
@@ -730,7 +730,6 @@
               "name": "medical-symbol",
               "family": "icon54",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "@primaryColor"
             }
@@ -764,7 +763,6 @@
               "name": "alarm-clock2",
               "family": "icon54",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "@primaryColor"
             }
@@ -953,6 +951,10 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "18px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#f39c12",
+              "font-size": "14px"
             }
           },
           "_params": {
@@ -982,7 +984,7 @@
             "overlayColor": "#ecf0f1",
             "overlayOpacity": 0.9
           },
-          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "media": {
             "image": {
               "src": "@THEME_PATH@/components/_images/features/03.jpg",
@@ -996,7 +998,7 @@
           "cat2": "teléfono",
           "cat3": "correo",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos sunt, dolorum similique facere, vitae ea quod, velit est, maiores cupiditate repudiandae! Laboriosam, aliquid ea a magnam sunt eum corrupti totam rem alias dolor ipsum dignissimos.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-skype\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin\"></span></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/ultradiagnostik\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -1037,9 +1039,9 @@
             "overlayColor": "#ecf0f1",
             "overlayOpacity": 0.5
           },
-          "iconName": "<img src=\"@THEME_PATH@/components/_images/form/icon-name.png\">",
-          "iconEmail": "<img src=\"@THEME_PATH@/components/_images/form/icon-email.png\">",
-          "iconPhone": "<img src=\"@THEME_PATH@/components/_images/form/icon-phone.png\">",
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
           "title": "<b>SERÁ UN HONOR ATENDERTE</b>",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "text": "Dr. Genaro Díaz Mañón s/n. Colonia La Trinidad, Tenancingo, México. C.P. 52400<br>(722) 581-38-07 &nbsp; | &nbsp;&nbsp;<b>contacto@ultradiagnostik.com</b><br><b><br></b>",
@@ -1097,7 +1099,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 Ultra Diagnostik - Creado por&nbsp;<a href=\"http://mobirise.com\" class=\"text-info\">BSpace Express</a>.",
+          "text": "Copyright (c) 2018 Ultra Diagnostik - Creado por&nbsp;<a href=\"http://www.bspacemx.com\" class=\"text-info\" target=\"_blank\">BSpace Express</a>.",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -1132,10 +1134,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.875rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.948rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -1177,7 +1179,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#333333",
-            "fontSize": 0.875,
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1226,7 +1228,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 Ultra Diagnostik - Creado por&nbsp;<a href=\"http://mobirise.com\" class=\"text-info\">BSpace Express</a>.",
+          "text": "Copyright (c) 2018 Ultra Diagnostik - Creado por&nbsp;<a href=\"http://www.bspacemx.com\" class=\"text-info\" target=\"_blank\">BSpace Express</a>.",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -1259,7 +1261,12 @@
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-39"
+          "_anchor": "content5-39",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            }
+          }
         },
         {
           "_styles": {
@@ -1291,7 +1298,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dr_nolasco-1-1021x785.png",
+              "src": "@PROJECT_PATH@/assets/images/dr-nolasco-1-1021x785.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -1353,7 +1360,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pari_karen-1021x785.png",
+              "src": "@PROJECT_PATH@/assets/images/pari-karen-1021x785.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -1415,7 +1422,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pari_zuri-1021x785.png",
+              "src": "@PROJECT_PATH@/assets/images/pari-zuri2-1021x785.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -1500,16 +1507,23 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "margin-bottom": "60px"
+              "margin-bottom": "60px",
+              "font-size": "72px"
             },
             ".nav-tabs": {
               "margin-top": "90px"
+            },
+            ".mbr-section-title B": {
+              "font-size": "72px"
+            },
+            "B": {
+              "font-size": "24px"
             }
           },
           "_params": {
             "showHeader": true,
             "showImages": true,
-            "showTitles": true,
+            "showTitles": false,
             "tabs": "5",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/hospital-x-ray-scanner-plupyzw-2000x1379.jpg",
@@ -1524,15 +1538,15 @@
             "overlayColor": "#1c435c",
             "overlayOpacity": "0.8"
           },
-          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
-          "title": "Médico<br><b>Radiólogo</b><b><br></b><br>",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "<br>Médico<br><b>Radiólogo</b><br><b>vs</b><b><br>Ultrasonografista</b><br><b><br></b>",
           "title1": "ALTAMENTE PREPARADO",
           "title2": "RIGUROSA COMPETENCIA",
           "title3": "PREPARACIÓN EXTENSA",
           "title4": "PRUEBAS FINALES",
           "title5": "CERTIFICACIÓN CONTINUA",
           "title6": "CONTACT FORMS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header5-2u\" aria-expanded=\"true\">EDUCACIÓN</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header5-2u\" aria-expanded=\"false\">RIGUROSIDAD</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header5-2u\" aria-expanded=\"false\">PREPARACIÓN</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header5-2u\" aria-expanded=\"false\">PRUEBAS</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header5-2u\" aria-expanded=\"false\">CERTIFICACIÓN</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header5-2u\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header5-2u\" aria-expanded=\"false\">EDUCACIÓN</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header5-2u\" aria-expanded=\"false\">RIGUROSIDAD</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header5-2u\" aria-expanded=\"false\">PREPARACIÓN</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header5-2u\" aria-expanded=\"false\">PRUEBAS</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header5-2u\" aria-expanded=\"true\">CERTIFICACIÓN</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header5-2u\">Beautiful</a></li>",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header5",
@@ -1540,7 +1554,6 @@
               "name": "glases-2",
               "family": "icon54",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "@primaryColor"
             }
@@ -1552,7 +1565,6 @@
               "name": "year-aniversary-23",
               "family": "icon54-v2",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "@primaryColor"
             }
@@ -1564,7 +1576,6 @@
               "name": "done-award-badge",
               "family": "icon54-v2",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "@primaryColor"
             }
@@ -1576,20 +1587,19 @@
               "name": "compose-mail1",
               "family": "icon54",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "@primaryColor"
             }
           },
           "media5": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
               "name": "genius",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
               "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
+              "color": "@primaryColor"
             }
           },
           "media6": {
@@ -1603,11 +1613,11 @@
               "family": "et-line"
             }
           },
-          "text1": "Es médico cirujano de profesión (7 años de carrera universitaria) con una especialidad en Radiología e Imagen de 3 o 4 años.",
-          "text2": "Para poder realizar la especialidad, necesita competir con 35,000 médicos para obtener una de las 5,000 plazas disponibles para <b>TODAS</b> las especialidades",
-          "text3": "Sin contar el resto de las modalidades de imagen que un Radiólogo ve durante su formación (rayos X, mastografía, resonancia magnética, tomografía) al final la especialidad habrá hecho un promedio de 15,000 ultrasonidos en todas sus modalidades.",
-          "text4": "Una vez terminada la especialidad se debe realizar tesis y presentar un examen para obtener el título y cedula de especialista.",
-          "text5": "El Medico Radiólogo debe presentar cada 5 años un examen de certificación ante el Consejo Mexicano de Radiología e Imagen para garantizar que cuenta con los suficientes conocimientos para el ejercicio de la radiología.",
+          "text1": "<b>Radiólogo</b><br><br>Es médico cirujano de profesión (7 años de carrera universitaria) con una especialidad en Radiología e Imagen de 3 o 4 años.<br><br><b>Ultrasonografista<br></b><br>Puede o no ser médico y realizar un curso de meses o máximo un año de ultrasonido.<br>",
+          "text2": "<b>Radiólogo</b><br><br>Para poder realizar la especialidad, necesita competir con 35,000 médicos para obtener una de las 5,000 plazas disponibles para TODAS las especialidades<br><br><b>Ultrasonografista<br></b><br>Para realizar un curso de ultrasonido solo necesita pagarlo y la calidad del curso dependerá del poder adquisitivo de quien lo realiza.<br>",
+          "text3": "<b>Radiólogo</b><br><br>Sin contar el resto de las modalidades de imagen que un Radiólogo ve durante su formación (rayos X, mastografía, resonancia magnética, tomografía) al final la especialidad habrá hecho un promedio de 15,000 ultrasonidos en todas sus modalidades.<br><br><b>Ultrasonografista<br></b><br>Un ultrasonografista habrá realizado al terminar su cuso un promedio de 150 ultrasonidos (dependiendo de la duración y calidad del curso) y bajo ninguna circunstancia PODRÁ interpretar ninguna otra modalidad de estudio.<br>",
+          "text4": "<b>Radiólogo</b><br><br>Una vez terminada la especialidad se debe realizar tesis y presentar un examen para obtener el título y cedula de especialista.<br><br><b>Ultrasonografista<br></b><br>Una vez terminado el curso, se les otorga un diploma sin ningún tipo de examinación y no cuentan con cédula profesional.<br>",
+          "text5": "<b>Radiólogo</b><br><br>El Medico Radiólogo debe presentar cada 5 años un examen de certificación ante el Consejo Mexicano de Radiología e Imagen para garantizar que cuenta con los suficientes conocimientos para el ejercicio de la radiología.<br><br><b>Ultrasonografista<br></b><br>Para fines prácticos no existe una autoridad que verifique ni certifique que la persona que realiza ultrasonidos tenga los conocimientos necesarios para la realización de los mismos ni para su interpretación.<br>",
           "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
           "alias": "colorm/components",
           "_tags": [
@@ -1615,137 +1625,6 @@
           ],
           "_name": "header5",
           "_anchor": "header5-2u"
-        },
-        {
-          "_styles": {
-            ".elements-content": {
-              "padding-bottom": "140px"
-            },
-            ".mbr-section-subtitle": {
-              "letter-spacing": "2px",
-              "margin-bottom": "10px",
-              "font-weight": "700"
-            },
-            ".mbr-section-title, .tab-pane": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "margin-bottom": "60px"
-            },
-            ".nav-tabs": {
-              "margin-top": "90px"
-            }
-          },
-          "_params": {
-            "showHeader": true,
-            "showImages": true,
-            "showTitles": true,
-            "tabs": "5",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ultrasonido-obstetrico-3-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#333333",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#232323",
-            "overlayOpacity": "0.8"
-          },
-          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
-          "title": "<b>Ultrasonografista</b><br><b><br></b>",
-          "title1": "CON O SIN PROFESIÓN",
-          "title2": "SIN OBSTÁCULOS",
-          "title3": "POCA PRÁCTICA",
-          "title4": "SIN PRUEBAS FINALES",
-          "title5": "SIN AUTORIDAD",
-          "title6": "CONTACT FORMS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header5-2x\" aria-expanded=\"false\">educación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header5-2x\" aria-expanded=\"false\">rigurosidad</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header5-2x\" aria-expanded=\"true\">preparación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header5-2x\" aria-expanded=\"false\">pruebas</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header5-2x\" aria-expanded=\"false\">certificación</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header5-2x\">Beautiful</a></li>",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "rubber-duck",
-              "family": "icon54-v3",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "wire-mouse",
-              "family": "icon54-v3",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "dismiss-award-badge",
-              "family": "icon54-v2",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "hiden-file",
-              "family": "icon54",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "announcement",
-              "family": "icon54-v4",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "text1": "Puede o no ser médico y realizar un curso de meses o máximo un año de ultrasonido.",
-          "text2": "Para realizar un curso de ultrasonido solo necesita pagarlo y la calidad del curso dependerá del poder adquisitivo de quien lo realiza.",
-          "text3": "Un ultrasonografista habrá realizado al terminar su cuso un promedio de 150 ultrasonidos (dependiendo de la duración y calidad del curso) y bajo ninguna circunstancia PODRÁ interpretar ninguna otra modalidad de estudio.",
-          "text4": "Una vez terminado el curso, se les otorga un diploma sin ningún tipo de examinación y no cuentan con cédula profesional.",
-          "text5": "Para fines prácticos no existe una autoridad que verifique ni certifique que la persona que realiza ultrasonidos tenga los conocimientos necesarios para la realización de los mismos ni para su interpretación.",
-          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-2x"
         },
         {
           "_styles": {
@@ -1784,7 +1663,7 @@
             "overlayColor": "#ecf0f1",
             "overlayOpacity": 0.9
           },
-          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "media": {
             "image": {
               "src": "@THEME_PATH@/components/_images/features/03.jpg",
@@ -1798,7 +1677,7 @@
           "cat2": "teléfono",
           "cat3": "correo",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos sunt, dolorum similique facere, vitae ea quod, velit est, maiores cupiditate repudiandae! Laboriosam, aliquid ea a magnam sunt eum corrupti totam rem alias dolor ipsum dignissimos.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-skype\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin\"></span></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -1839,9 +1718,9 @@
             "overlayColor": "#ecf0f1",
             "overlayOpacity": 0.5
           },
-          "iconName": "<img src=\"@THEME_PATH@/components/_images/form/icon-name.png\">",
-          "iconEmail": "<img src=\"@THEME_PATH@/components/_images/form/icon-email.png\">",
-          "iconPhone": "<img src=\"@THEME_PATH@/components/_images/form/icon-phone.png\">",
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
           "title": "<b>SERÁ UN HONOR ATENDERTE</b>",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "text": "Dr. Genaro Díaz Mañón s/n. Colonia La Trinidad, Tenancingo, México. C.P. 52400<br>(722) 581-38-07 &nbsp; | &nbsp;&nbsp;<b>contacto@ultradiagnostik.com</b><br><b><br></b>",
