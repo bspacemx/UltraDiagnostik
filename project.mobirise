@@ -574,7 +574,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pari-zuri2-600x461.png",
+              "src": "@PROJECT_PATH@/assets/images/pari-zuri2-1-600x461.png",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -1422,7 +1422,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pari-zuri2-1021x785.png",
+              "src": "@PROJECT_PATH@/assets/images/pari-zuri2-1-1021x785.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -1539,7 +1539,7 @@
             "overlayOpacity": "0.8"
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "<br>Médico<br><b>Radiólogo</b><br><b>vs</b><b><br>Ultrasonografista</b><br><b><br></b>",
+          "title": "<br>Médico&nbsp;<b>Radiólogo</b><br><i>vs&nbsp;</i><b>&nbsp;</b><b>Ultrasonografista</b><br><b><br></b>",
           "title1": "ALTAMENTE PREPARADO",
           "title2": "RIGUROSA COMPETENCIA",
           "title3": "PREPARACIÓN EXTENSA",
