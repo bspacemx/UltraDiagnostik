@@ -163,7 +163,7 @@
             "showArrow": true,
             "iconsColor": "#ffffff",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/senior-doc-consultorio-1999x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hospital-x-ray-scanner-plupyzw-2000x1379.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#8e44ad",
@@ -173,7 +173,7 @@
             },
             "overlay": true,
             "overlayColor": "#333333",
-            "overlayOpacity": 0.9
+            "overlayOpacity": "0.8"
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "ULTRA<br>DIAGNOSTIK",
