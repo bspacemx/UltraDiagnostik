@@ -1009,30 +1009,48 @@ blockquote {
   text-align: center;
   color: #333333;
 }
-#header5-2u .elements-content {
+#header5-3c .elements-content {
   padding-bottom: 140px;
 }
-#header5-2u .mbr-section-subtitle {
+#header5-3c .mbr-section-subtitle {
   letter-spacing: 2px;
   margin-bottom: 10px;
   font-weight: 700;
 }
-#header5-2u .mbr-section-title,
-#header5-2u .tab-pane {
+#header5-3c .mbr-section-title,
+#header5-3c .tab-pane {
   color: #fff;
 }
-#header5-2u .mbr-section-title {
+#header5-3c .mbr-section-title {
   margin-bottom: 60px;
-  font-size: 72px;
+  font-size: 36px;
 }
-#header5-2u .nav-tabs {
+#header5-3c .nav-tabs {
   margin-top: 90px;
 }
-#header5-2u .mbr-section-title B {
-  font-size: 72px;
+#header5-3c .mbr-section-title B {
+  font-size: 36px;
 }
-#header5-2u B {
-  font-size: 24px;
+#header5-3b .elements-content {
+  padding-bottom: 140px;
+}
+#header5-3b .mbr-section-subtitle {
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+#header5-3b .mbr-section-title,
+#header5-3b .tab-pane {
+  color: #fff;
+}
+#header5-3b .mbr-section-title {
+  margin-bottom: 60px;
+}
+#header5-3b .nav-tabs {
+  margin-top: 90px;
+}
+#header5-3b .mbr-section-title {
+  font-size: 35px;
 }
 #contacts2-2m .mbr-section-title {
   font-size: 18px;
