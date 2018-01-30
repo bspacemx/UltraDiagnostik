@@ -810,10 +810,13 @@ blockquote {
   margin-top: 40px;
 }
 #animated-bg1-19 H1 {
-  font-size: 60px;
+  font-size: 32px;
 }
 #animated-bg1-19 P {
   font-size: 24px;
+}
+#animated-bg1-19 .mbr-section-title {
+  letter-spacing: 2px;
 }
 #features3-12 .mbr-section-title {
   font-weight: 700;
@@ -846,7 +849,7 @@ blockquote {
   color: #333333;
 }
 #content3-9 .mbr-section-title {
-  letter-spacing: 6px;
+  letter-spacing: 3px;
   font-size: 45px;
 }
 #features7-8 .lead {
@@ -867,6 +870,9 @@ blockquote {
 #call4-1m .mbr-section-title {
   text-align: center;
 }
+#call4-1m .btn {
+  font-size: 12px;
+}
 #tabs2-1f P {
   text-align: center;
 }
@@ -875,9 +881,10 @@ blockquote {
 }
 #tabs2-1f .mbr-section-title B {
   color: #333333;
+  font-size: 36px;
 }
 #tabs2-1f .mbr-section-title {
-  letter-spacing: 6px;
+  letter-spacing: 3px;
   font-size: 45px;
 }
 #contacts2-2l .mbr-section-title {
@@ -906,8 +913,11 @@ blockquote {
 #form1-v .mbr-section-text B {
   color: #ffffff;
 }
+#form1-v .mbr-section-title B {
+  font-size: 36px;
+}
 #form1-v .mbr-section-title {
-  letter-spacing: 6px;
+  letter-spacing: 3px;
   font-size: 45px;
   padding-bottom: 40px;
 }
@@ -1000,7 +1010,7 @@ blockquote {
   text-align: center;
 }
 #content5-37 .mbr-section-title {
-  font-size: 60px;
+  font-size: 36px;
   text-align: center;
   color: #000000;
 }
@@ -1078,8 +1088,11 @@ blockquote {
 #form1-1w .mbr-section-text B {
   color: #ffffff;
 }
+#form1-1w .mbr-section-title B {
+  font-size: 36px;
+}
 #form1-1w .mbr-section-title {
-  letter-spacing: 6px;
+  letter-spacing: 3px;
   font-size: 45px;
   padding-bottom: 40px;
 }
