@@ -1645,12 +1645,16 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "margin-bottom": "60px"
+              "margin-bottom": "60px",
+              "font-size": "32px"
             },
             ".nav-tabs": {
               "margin-top": "90px"
             },
             ".mbr-section-title B": {
+              "font-size": "32px"
+            },
+            ".mbr-section-title SPAN": {
               "font-size": "32px"
             }
           },

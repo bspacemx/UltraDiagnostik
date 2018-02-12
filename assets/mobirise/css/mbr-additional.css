@@ -1055,11 +1055,15 @@ blockquote {
 }
 #header5-3d .mbr-section-title {
   margin-bottom: 60px;
+  font-size: 32px;
 }
 #header5-3d .nav-tabs {
   margin-top: 90px;
 }
 #header5-3d .mbr-section-title B {
+  font-size: 32px;
+}
+#header5-3d .mbr-section-title SPAN {
   font-size: 32px;
 }
 #contacts2-2m .mbr-section-title {
