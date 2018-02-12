@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ultra Diagnostik",
-    "currentPage": "index.html",
+    "currentPage": "equipoud.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.5.1",
-    "uniqCompNum": 121,
+    "uniqCompNum": 122,
     "versionPublish": "4.6.2",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-ud.svg",
     "noImageResize": "",
@@ -120,7 +120,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features10-10\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ultradiagnostik.html#content3-9\">NUESTRO EQUIPO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#tabs2-1f\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features10-10\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-9\">NUESTRO EQUIPO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#tabs2-1f\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-v\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1126,6 +1126,32 @@
       "components": [
         {
           "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Ultra Diagnostik - Creado por&nbsp;<a href=\"http://www.bspacemx.com\" class=\"text-info\" target=\"_blank\">BSpace Express</a>.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-1o"
+        },
+        {
+          "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
@@ -1192,7 +1218,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features10-10\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ultradiagnostik.html#content3-9\">NUESTRO EQUIPO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#tabs2-1f\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features10-10\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-9\">NUESTRO EQUIPO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#tabs2-1f\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-v\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1215,34 +1241,8 @@
             "Theme"
           ],
           "_name": "menu",
-          "_customCSS": "",
-          "_anchor": "menu-1n"
-        },
-        {
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2018 Ultra Diagnostik - Creado por&nbsp;<a href=\"http://www.bspacemx.com\" class=\"text-info\" target=\"_blank\">BSpace Express</a>.",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_anchor": "footer2-1o"
+          "_anchor": "menu-0",
+          "_customCSS": ""
         },
         {
           "_params": {
@@ -1551,7 +1551,7 @@
           "title4": "PRUEBAS FINALES<br><br>",
           "title5": "CERTIFICACIÓN CONSTANTE<br><br>",
           "title6": "CONTACT FORMS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header5-3c\" aria-expanded=\"false\">educación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header5-3c\" aria-expanded=\"false\">RIGUROSIDAD</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header5-3c\" aria-expanded=\"true\">PREPARACIÓN</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header5-3c\" aria-expanded=\"false\">PRUEBAS</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header5-3c\" aria-expanded=\"false\">CERTIFICACIÓN</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header5-3c\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header5-3c\" aria-expanded=\"false\">educación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header5-3c\" aria-expanded=\"false\">RIGUROSIDAD</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header5-3c\" aria-expanded=\"false\">PREPARACIÓN</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header5-3c\" aria-expanded=\"false\">PRUEBAS</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header5-3c\" aria-expanded=\"true\">CERTIFICACIÓN</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header5-3c\">Beautiful</a></li>",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header5",
@@ -1632,6 +1632,28 @@
           "_anchor": "header5-3c"
         },
         {
+          "_styles": {
+            ".elements-content": {
+              "padding-bottom": "140px"
+            },
+            ".mbr-section-subtitle": {
+              "letter-spacing": "2px",
+              "margin-bottom": "10px",
+              "font-weight": "700"
+            },
+            ".mbr-section-title, .tab-pane": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "margin-bottom": "60px"
+            },
+            ".nav-tabs": {
+              "margin-top": "90px"
+            },
+            ".mbr-section-title B": {
+              "font-size": "32px"
+            }
+          },
           "_params": {
             "showHeader": true,
             "showImages": true,
@@ -1651,14 +1673,14 @@
             "overlayOpacity": "0.7"
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "<b>Ultrasonografista</b><br>",
-          "title1": "SIN PREPARACIÓN<br><br>",
-          "title2": "SIN FILTROS<br><br>",
-          "title3": "POCA EXPERIENCIA<br><br>",
-          "title4": "SIN CÉDULA<br><br>",
-          "title5": "SIN AUTORIZACIÓN<br><br>",
+          "title": "<b>Ultrasonografista</b>",
+          "title1": "SIN PREPARACIÓN",
+          "title2": "SIN FILTROS",
+          "title3": "POCA EXPERIENCIA",
+          "title4": "SIN CÉDULA\r",
+          "title5": "SIN AUTORIZACIÓN",
           "title6": "CONTACT FORMS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header5-3b\" aria-expanded=\"true\">educación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header5-3b\" aria-expanded=\"false\">rigurosidad</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header5-3b\" aria-expanded=\"false\">preparación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header5-3b\" aria-expanded=\"false\">pruebas</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header5-3b\" aria-expanded=\"false\">certificación</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header5-3b\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header5-3d\" aria-expanded=\"false\">Educación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header5-3d\" aria-expanded=\"false\">rigurosidad</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header5-3d\" aria-expanded=\"false\">Preparación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header5-3d\" aria-expanded=\"false\">pruebas</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header5-3d\" aria-expanded=\"true\">certificación</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header5-3d\">Beautiful</a></li>",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header5",
@@ -1707,10 +1729,9 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header5",
               "linkInNewWindow": false,
-              "name": "attention",
-              "family": "icon54-v2",
+              "name": "error-mark",
+              "family": "icon54-v4",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "@primaryColor"
             }
@@ -1737,12 +1758,7 @@
             "Theme"
           ],
           "_name": "header5",
-          "_anchor": "header5-3b",
-          "_customCSS": ".elements-content {\n  padding-bottom: 140px;\n}\n.mbr-section-subtitle {\n  letter-spacing: 2px;\n  margin-bottom: 10px;\n  font-weight: 700;\n}\n.mbr-section-title, .tab-pane {\n  color: #fff;\n}\n.mbr-section-title {\n  margin-bottom: 60px;\n}\n.nav-tabs {\n  margin-top: 90px;\n}\n.mbr-section-title {\n    font-size: 35px;\n}\n",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section-full mbr-section--relative header5 mbr-parallax-background\" data-rv-view=\"123\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/ultrasonido-obstetrico-3-2000x1333.jpg&quot;);\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.7; background-color: rgb(0, 0, 0);\"></div>\n    <div class=\"mbr-table-cell mbr-table-cell-vertical-bottom elements-content position-relative\">\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-8 col-lg-offset-2 text-xs-left\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"984\"><strong>Ultrasonografista</strong><br></h1>\n \n                    <div class=\"tab-content noScroll\">\n\n                        <div id=\"tab1header5-3b\" class=\"tab-pane in fade active mbr-table\" role=\"tabpanel\">\n                            <div class=\"col-xs-1 mbr-table-cell table-cell-top\">\n                                <div class=\"mbr-figure-background\"></div>\n                                <div class=\"mbr-figure\"><span class=\"icon54-v3-rubber-duck mbr-iconfont mbr-iconfont-header5\" style=\"color: rgb(243, 156, 18);\"></span></div>\n                            </div>\n                            <div class=\"col-xs-11 mbr-table-cell\">\n                                <p class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"985\">SIN PREPARACIÓN<br><br></p>\n                                <div class=\"row\">\n                                    <div class=\"col-md-12\">\n                                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"986\">Para fines prácticos no existe una autoridad que verifique ni certifique que la persona que realiza ultrasonidos tenga los conocimientos necesarios para la realización de los mismos ni para su interpretación.</p>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab2header5-3b\" class=\"tab-pane fade mbr-table\" role=\"tabpanel\">\n                            <div class=\"col-xs-1 mbr-table-cell table-cell-top\">\n                                <div class=\"mbr-figure-background\"></div>  \n                                <div class=\"mbr-figure\"><span class=\"icon54-v1-send-money mbr-iconfont mbr-iconfont-header5\" style=\"color: rgb(243, 156, 18);\"></span></div>\n                            </div>\n                            <div class=\"col-xs-11 mbr-table-cell\">\n                                <h3 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"987\">SIN FILTROS<br><br></h3>\n                                <div class=\"row\">\n                                    <div class=\"col-md-12\">\n                                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"988\">Para realizar un curso de ultrasonido solo necesita pagarlo y la calidad del curso dependerá del poder adquisitivo de quien lo realiza.</p>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab3header5-3b\" class=\"tab-pane fade mbr-table\" role=\"tabpanel\">\n                            <div class=\"col-xs-1 mbr-table-cell table-cell-top\">\n                                <div class=\"mbr-figure-background\"></div>\n                                <div class=\"mbr-figure\"><span class=\"icon54-v2-dismiss-award-badge mbr-iconfont mbr-iconfont-header5\" style=\"color: rgb(243, 156, 18);\"></span></div>\n                            </div>\n                            <div class=\"col-xs-11 mbr-table-cell\">\n                                <h3 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"989\">POCA EXPERIENCIA<br><br></h3>\n                                <div class=\"row\">\n                                    <div class=\"col-md-12\">\n                                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"990\">Un ultrasonografista habrá realizado al terminar su cuso un promedio de 150 ultrasonidos (dependiendo de la duración y calidad del curso) y bajo ninguna circunstancia PODRÁ interpretar ninguna otra modalidad de estudio.</p>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab4header5-3b\" class=\"tab-pane fade mbr-table\" role=\"tabpanel\">\n                            <div class=\"col-xs-1 mbr-table-cell table-cell-top\">\n                                <div class=\"mbr-figure-background\"></div>\n                                <div class=\"mbr-figure\"><span class=\"icon54-v4-dismiss-user-2 mbr-iconfont mbr-iconfont-header5\" style=\"color: rgb(243, 156, 18);\"></span></div>\n                            </div>\n                            <div class=\"col-xs-11 mbr-table-cell\">\n                                <h3 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"991\">SIN CÉDULA<br><br></h3>\n                                <div class=\"row\">\n                                    <div class=\"col-md-12\">\n                                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"992\">Una vez terminado el curso, se les otorga un diploma sin ningún tipo de examinación y no cuentan con cédula profesional.</p>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab5header5-3b\" class=\"tab-pane fade mbr-table\" role=\"tabpanel\">\n                            <div class=\"col-xs-1 mbr-table-cell table-cell-top\">\n                                <div class=\"mbr-figure-background\"></div>\n                                <div class=\"mbr-figure\"><a href=\"https://mobirise.com\" class=\"icon54-v2-attention mbr-iconfont mbr-iconfont-header5\" style=\"color: rgb(243, 156, 18);\"></a></div>\n                            </div>\n                            <div class=\"col-xs-11 mbr-table-cell\">\n                                <h3 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"993\">SIN AUTORIZACIÓN<br><br></h3>\n                                <div class=\"row\">\n                                    <div class=\"col-md-12\">\n                                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"994\">Para fines prácticos no existe una autoridad que verifique ni certifique que la persona que realiza ultrasonidos tenga los conocimientos necesarios para la realización de los mismos ni para su interpretación.</p>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab6header5-3b\" class=\"tab-pane fade mbr-table\" role=\"tabpanel\">\n                            <div class=\"col-xs-1 mbr-table-cell table-cell-top\">\n                                <div class=\"mbr-figure-background\"></div>\n                                <div class=\"mbr-figure\"><a href=\"https://mobirise.com\" class=\"etl-icon icon-global mbr-iconfont mbr-iconfont-header5\" style=\"color: rgb(243, 156, 18);\"></a></div>\n                            </div>\n                            <div class=\"col-xs-11 mbr-table-cell\">\n                                <h3 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"995\">CONTACT FORMS</h3>\n                                <div class=\"row\">\n                                    <div class=\"col-md-12\">\n                                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"996\">Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.</p>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n\n                    </div>\n\n                </div>\n            </div>\n\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n\n                    <div class=\"clearfix\"></div>\n                    \n                    <ul class=\"nav nav-tabs mbr-editable-content\" role=\"tablist\" code-editable-id=\"997\"><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header5-3b\" aria-expanded=\"true\">educación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header5-3b\" aria-expanded=\"false\">rigurosidad</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header5-3b\" aria-expanded=\"false\">preparación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header5-3b\" aria-expanded=\"false\">pruebas</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header5-3b\" aria-expanded=\"false\">certificación</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header5-3b\">Beautiful</a></li></ul>\n\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customTemplate": true
+          "_anchor": "header5-3d"
         },
         {
           "_styles": {
@@ -1795,7 +1811,7 @@
           "cat2": "teléfono",
           "cat3": "correo",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos sunt, dolorum similique facere, vitae ea quod, velit est, maiores cupiditate repudiandae! Laboriosam, aliquid ea a magnam sunt eum corrupti totam rem alias dolor ipsum dignissimos.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook\"></span></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/ultradiagnostik\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
