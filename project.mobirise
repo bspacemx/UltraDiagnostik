@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ultra Diagnostik",
-    "currentPage": "equipoud.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.5.1",
-    "uniqCompNum": 122,
+    "uniqCompNum": 127,
     "versionPublish": "4.6.2",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-ud.svg",
     "noImageResize": "",
@@ -120,7 +120,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features10-10\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-9\">NUESTRO EQUIPO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#tabs2-1f\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-v\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features10-10\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-9\">NUESTRO EQUIPO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-3e\">VENTAJAS DE UN RADIÓLGO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#tabs2-1f\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-v\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -201,6 +201,9 @@
               "color": "#ffffff",
               "font-family": "'Poppins', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+            },
+            ".mbr-section-text": {
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -260,10 +263,10 @@
               "margin-top": "40px"
             },
             "H1": {
-              "font-size": "32px"
+              "font-size": "46px"
             },
             "P": {
-              "font-size": "24px"
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -290,7 +293,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "nuestro compromiso",
-          "text": "Auxiliarte a través de un servicio de imagen confiable y oportuno en el diagnóstico de enfermedades clínicas.<br>Brindamos servicios rentables y accesibles para toda la gente.",
+          "text": "Auxiliarte a través de un servicio de imagen confiable y oportuno en el diagnóstico de enfermedades clínicas. Brindamos servicios rentables y accesibles para toda la gente.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
           "alias": "colorm/components",
           "_tags": [
@@ -426,8 +429,8 @@
           ],
           "_name": "features3",
           "_anchor": "features3-12",
-          "_customCSS": ".mbr-section-title {\n  font-weight: 700;\n  color: #3ea3e4;\n  font-size: 60px;\n}\n.mbr-section-subtitle {\n  text-transform: uppercase;\n  letter-spacing: 2px;\n  color: #3ea3e4;\n}\n.mbr-section-text {\n  color: #666666;\n}\n.mbr-section-title {\n    letter-spacing: 6px;\n    font-size: 45px;\n}\n\n.mbr-figure-background {\n    background: none;\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero features4\" data-rv-view=\"80\" style=\"background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-8 col-lg-offset-2 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"37\">VALORES</h1>\n\n                </div>\n            </div>\n\n            <div class=\"mbr-cards-row row\">\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a class=\"icon54-v4-handshake mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"38\">Honestidad</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a class=\"icon54-v4-star mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"39\">calidad</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                  </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a class=\"icon54-v4-hand mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"40\">compromiso social</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a class=\"icon54-v4-thumbs-up mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"41\">excelencia</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a class=\"icon54-v1-happy-wink mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"42\">servicio</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a class=\"icon54-v1-atom mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"43\">innovación</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n</section>",
+          "_customCSS": ".mbr-section-title {\n  font-weight: 700;\n  color: #3ea3e4;\n  font-size: 60px;\n}\n.mbr-section-subtitle {\n  text-transform: uppercase;\n  color: #3ea3e4;\n}\n.mbr-section-text {\n  color: #666666;\n}\n.mbr-section-title {\n    letter-spacing: 6px;\n    font-size: 45px;\n}\n\n.mbr-figure-background {\n    background: none;\n}",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero features4\" data-rv-view=\"80\" style=\"background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-8 col-lg-offset-2 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"42\">VALORES</h1>\n\n                </div>\n            </div>\n\n            <div class=\"mbr-cards-row row\">\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a class=\"icon54-v4-handshake mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"43\">Honestidad</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a class=\"icon54-v4-star mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"44\">calidad</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                  </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a class=\"icon54-v4-hand mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"45\">compromiso social</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a class=\"icon54-v4-thumbs-up mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"46\">excelencia</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a class=\"icon54-v1-happy-wink mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"47\">servicio</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-2\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"mbr-figure-background\"></div>\n                            <div class=\"card-img iconbox\"><a class=\"icon54-v1-atom mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(62, 163, 228);\"></a></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"48\">innovación</h5>\n                                \n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
@@ -665,6 +668,302 @@
           ],
           "_name": "call4",
           "_anchor": "call4-1m"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#169581",
+            "overlayOpacity": 0.8
+          },
+          "title": "VENTAJAS DE UN MÉDICO RADIÓLOGO",
+          "caption": "<p>Comparativa con un ultrasonografista</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "text-align": "center",
+              "color": "#000000"
+            },
+            "P": {
+              "font-size": "20px",
+              "text-align": "center",
+              "color": "#333333"
+            }
+          },
+          "_anchor": "content5-3e"
+        },
+        {
+          "_styles": {
+            ".elements-content": {
+              "padding-bottom": "140px"
+            },
+            ".mbr-section-subtitle": {
+              "letter-spacing": "2px",
+              "margin-bottom": "10px",
+              "font-weight": "700"
+            },
+            ".mbr-section-title, .tab-pane": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "margin-bottom": "60px",
+              "font-size": "32px"
+            },
+            ".nav-tabs": {
+              "margin-top": "90px"
+            },
+            ".mbr-section-title B": {
+              "font-size": "32px"
+            }
+          },
+          "_params": {
+            "showHeader": true,
+            "showImages": true,
+            "showTitles": true,
+            "tabs": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hospital-x-ray-scanner-plupyzw-2000x1379.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#34495e",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "Médico<br><b>Radiólogo</b>",
+          "title1": "ALTAMENTE PREPARADO",
+          "title2": "FILTROS RIGUROSOS",
+          "title3": "EXPERIENCIA EXTENSA",
+          "title4": "PRUEBAS FINALES\n",
+          "title5": "CERTIFICACIÓN CONSTANTE",
+          "title6": "CONTACT FORMS",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header5-3h\" aria-expanded=\"false\">educación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header5-3h\" aria-expanded=\"false\">rigurosidad</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header5-3h\" aria-expanded=\"false\">preparación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header5-3h\" aria-expanded=\"false\">pruebas</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header5-3h\" aria-expanded=\"true\">certificación</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header5-3h\">Beautiful</a></li>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "glasses",
+              "family": "icon54-v4",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "lock-1",
+              "family": "icon54",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "award-2",
+              "family": "icon54-v2",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "edit-post-it",
+              "family": "icon54-v2",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "genius",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "text1": "Es médico cirujano de profesión (7 años de carrera universitaria) con una especialidad en Radiología e Imagen de 3 o 4 años.",
+          "text2": "Para poder realizar la especialidad, necesita competir con 35,000 médicos para obtener una de las 5,000 plazas disponibles para TODAS las especialidades",
+          "text3": "Sin contar el resto de las modalidades de imagen que un Radiólogo ve durante su formación (rayos X, mastografía, resonancia magnética, tomografía) al final la especialidad habrá hecho un promedio de 15,000 ultrasonidos en todas sus modalidades.",
+          "text4": "Una vez terminada la especialidad se debe realizar tesis y presentar un examen para obtener el título y cedula de especialista.",
+          "text5": "El Medico Radiólogo debe presentar cada 5 años un examen de certificación ante el Consejo Mexicano de Radiología e Imagen para garantizar que cuenta con los suficientes conocimientos para el ejercicio de la radiología.",
+          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-3h"
+        },
+        {
+          "_styles": {
+            ".elements-content": {
+              "padding-bottom": "140px"
+            },
+            ".mbr-section-subtitle": {
+              "letter-spacing": "2px",
+              "margin-bottom": "10px",
+              "font-weight": "700"
+            },
+            ".mbr-section-title, .tab-pane": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "margin-bottom": "60px",
+              "font-size": "32px"
+            },
+            ".nav-tabs": {
+              "margin-top": "90px"
+            }
+          },
+          "_params": {
+            "showHeader": true,
+            "showImages": true,
+            "showTitles": true,
+            "tabs": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ultrasonido-obstetrico-3-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "<b>Ultrasonografista</b>",
+          "title1": "SIN PREPARACIÓN",
+          "title2": "SIN FILTROS",
+          "title3": "POCA EXPERIENCIA",
+          "title4": "SIN CÉDULA",
+          "title5": "SIN AUTORIZACIÓN",
+          "title6": "CONTACT FORMS",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header5-3i\" aria-expanded=\"false\">educación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header5-3i\" aria-expanded=\"true\">rigurosidad</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header5-3i\" aria-expanded=\"false\">preparación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header5-3i\" aria-expanded=\"false\">pruebas</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header5-3i\" aria-expanded=\"false\">certificación</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header5-3i\">Beautiful</a></li>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "rubber-duck",
+              "family": "icon54-v3",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "send-money",
+              "family": "icon54",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "dismiss-award-badge",
+              "family": "icon54-v2",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "dismiss-user-2",
+              "family": "icon54-v4",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "error-mark",
+              "family": "icon54-v4",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "text1": "Puede o no ser médico y realizar un curso de meses o máximo un año de ultrasonido.",
+          "text2": "Para realizar un curso de ultrasonido solo necesita pagarlo y la calidad del curso dependerá del poder adquisitivo de quien lo realiza.",
+          "text3": "Un ultrasonografista habrá realizado al terminar su cuso un promedio de 150 ultrasonidos (dependiendo de la duración y calidad del curso) y bajo ninguna circunstancia PODRÁ interpretar ninguna otra modalidad de estudio.",
+          "text4": "Una vez terminado el curso, se les otorga un diploma sin ningún tipo de examinación y no cuentan con cédula profesional.",
+          "text5": "Para fines prácticos no existe una autoridad que verifique ni certifique que la persona que realiza ultrasonidos tenga los conocimientos necesarios para la realización de los mismos ni para su interpretación.",
+          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-3i"
         },
         {
           "_styles": {
@@ -1218,7 +1517,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features10-10\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-9\">NUESTRO EQUIPO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#tabs2-1f\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-v\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features10-10\">NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-9\">NUESTRO EQUIPO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-3e\">VENTAJAS DE UN RADIÓLGO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#tabs2-1f\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-v\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1286,7 +1585,7 @@
             "showMeta": true,
             "paddingTop": "4",
             "paddingBottom": "0",
-            "bgColor": "#eeeeee"
+            "bgColor": "#ffffff"
           },
           "title": "Dr. José Antonio Hernández Nolasco",
           "meta": "Fundador de Ultra Diagnostik",
@@ -1301,7 +1600,7 @@
             "showText": true,
             "paddingTop": "2",
             "paddingBottom": "3",
-            "bgColor": "#eeeeee"
+            "bgColor": "#ffffff"
           },
           "media": {
             "image": {
@@ -1328,7 +1627,7 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#eeeeee"
+            "bgColor": "#ffffff"
           },
           "text": "Maestría en dirección estratégica de organizaciones de salud. El doctor José Antonio cuenta con una gran experiencia como responsable sanitario de departamentos de radiología e imagen en instituciones de salud como Cruz Roja Toluca y Grupo Diagnóstico PROA. Es miembro activo de la Sociedad Norteamericana de Radiología (RSNA) y de la Sociedad Europea de Radiología (ESR)<br><br>Actualmente dedica gran parte de su tiempo en compartir sus conocimientos y preparar a las nuevas generaciones, destacando su participación en ponencias como “Parámetros técnicos para una telerradiografía de tórax “ en el “1er Congreso Estatal de la Sociedad de Técnicos Radiólogos del Estado de México”, “Accesos vasculares y procedimientos anestésicos guiados por ultrasonido” en el “V Congreso Bienal del Instituto Materno Infantil del Estado de México” y llevando a cabo el “Primer curso de ultrasonido abdominal básico” en la Cruz Roja Mexicana.",
           "alias": "colorm/components",
@@ -1348,7 +1647,7 @@
             "showMeta": true,
             "paddingTop": "4",
             "paddingBottom": "0",
-            "bgColor": "#ffffff"
+            "bgColor": "#eeeeee"
           },
           "title": "P.A.R.I Karen Isabel Flores Fernández",
           "meta": "Técnica radióloga y técnica ultrasonografista",
@@ -1363,7 +1662,7 @@
             "showText": true,
             "paddingTop": "2",
             "paddingBottom": "3",
-            "bgColor": "#ffffff"
+            "bgColor": "#eeeeee"
           },
           "media": {
             "image": {
@@ -1390,7 +1689,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
-            "bgColor": "#ffffff"
+            "bgColor": "#eeeeee"
           },
           "text": "Especializada en radiología convencional y contrastada así como en mastografía con\npreparación especial en realización de ultrasonido abdominal y pélvico básico,\nproveedora de soporte vital básico B.L.S. (Basic Life Support) y proveedora de soporte vital\navanzado pediátrico P.A.L.S. (Pediatric Advenced Life Support). Actualmente es miembro\nactivo de la Federación Nacional de Radiólogos e Imagenólogos (FNRIAC) y del Consejo\nNacional de Técnicos <br>Radiólogos e Imagenólogos (CNTRI).",
           "alias": "colorm/components",
@@ -1410,7 +1709,7 @@
             "showMeta": true,
             "paddingTop": "4",
             "paddingBottom": "0",
-            "bgColor": "#eeeeee"
+            "bgColor": "#ffffff"
           },
           "title": "P.A.R.I. Zurisaddai Rodríguez Morales\n",
           "meta": "Técnica radióloga y técnica ultrasonografista",
@@ -1425,7 +1724,7 @@
             "showText": true,
             "paddingTop": "2",
             "paddingBottom": "3",
-            "bgColor": "#eeeeee"
+            "bgColor": "#ffffff"
           },
           "media": {
             "image": {
@@ -1451,8 +1750,8 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#eeeeee"
+            "paddingBottom": "5",
+            "bgColor": "#ffffff"
           },
           "text": "Preparada como técnica en radiología e imagen con especialidad en ultrasonido abdominal\nbásico, además de ser profesional en enfermería general con amplia experiencia en\natención a pacientes politraumatizados y en estado crítico.",
           "alias": "colorm/components",
@@ -1461,308 +1760,6 @@
           ],
           "_name": "content1",
           "_anchor": "content1-2i"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
-            },
-            "overlay": true,
-            "overlayColor": "#169581",
-            "overlayOpacity": 0.8
-          },
-          "title": "VENTAJAS DE UN MÉDICO RADIÓLOGO",
-          "caption": "<p>Comparativa con un ultrasonografista</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-37",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "36px",
-              "text-align": "center",
-              "color": "#000000"
-            },
-            "P": {
-              "font-size": "20px",
-              "text-align": "center",
-              "color": "#333333"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".elements-content": {
-              "padding-bottom": "140px"
-            },
-            ".mbr-section-subtitle": {
-              "letter-spacing": "2px",
-              "margin-bottom": "10px",
-              "font-weight": "700"
-            },
-            ".mbr-section-title, .tab-pane": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "margin-bottom": "60px",
-              "font-size": "36px"
-            },
-            ".nav-tabs": {
-              "margin-top": "90px"
-            },
-            ".mbr-section-title B": {
-              "font-size": "36px"
-            }
-          },
-          "_params": {
-            "showHeader": true,
-            "showImages": true,
-            "showTitles": true,
-            "tabs": "5",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hospital-x-ray-scanner-plupyzw-2000x1379.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#34495e",
-            "overlayOpacity": 0.9
-          },
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "Médico<br><b>Radiólogo</b><b><br></b>",
-          "title1": "ALTAMENTE PREPARADO<br><br>",
-          "title2": "FILTROS RIGUROSOS<br><br>",
-          "title3": "EXPERIENCIA EXTENSA<br><br>",
-          "title4": "PRUEBAS FINALES<br><br>",
-          "title5": "CERTIFICACIÓN CONSTANTE<br><br>",
-          "title6": "CONTACT FORMS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header5-3c\" aria-expanded=\"false\">educación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header5-3c\" aria-expanded=\"false\">RIGUROSIDAD</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header5-3c\" aria-expanded=\"false\">PREPARACIÓN</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header5-3c\" aria-expanded=\"false\">PRUEBAS</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header5-3c\" aria-expanded=\"true\">CERTIFICACIÓN</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header5-3c\">Beautiful</a></li>",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "glases-2",
-              "family": "icon54",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "key-hole1",
-              "family": "icon54",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "year-aniversary-23",
-              "family": "icon54-v2",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "post-it-pencil",
-              "family": "icon54-v2",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "genius",
-              "family": "et-line",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "text1": "Es médico cirujano de profesión (7 años de carrera universitaria) con una especialidad en Radiología e Imagen de 3 o 4 años.",
-          "text2": "Para poder realizar la especialidad, necesita competir con 35,000 médicos para obtener una de las 5,000 plazas disponibles para TODAS las especialidades",
-          "text3": "Sin contar el resto de las modalidades de imagen que un Radiólogo ve durante su formación (rayos X, mastografía, resonancia magnética, tomografía) al final la especialidad habrá hecho un promedio de 15,000 ultrasonidos en todas sus modalidades.",
-          "text4": "Una vez terminada la especialidad se debe realizar tesis y presentar un examen para obtener el título y cedula de especialista.",
-          "text5": "El Medico Radiólogo debe presentar cada 5 años un examen de certificación ante el Consejo Mexicano de Radiología e Imagen para garantizar que cuenta con los suficientes conocimientos para el ejercicio de la radiología.",
-          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-3c"
-        },
-        {
-          "_styles": {
-            ".elements-content": {
-              "padding-bottom": "140px"
-            },
-            ".mbr-section-subtitle": {
-              "letter-spacing": "2px",
-              "margin-bottom": "10px",
-              "font-weight": "700"
-            },
-            ".mbr-section-title, .tab-pane": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "margin-bottom": "60px",
-              "font-size": "32px"
-            },
-            ".nav-tabs": {
-              "margin-top": "90px"
-            },
-            ".mbr-section-title B": {
-              "font-size": "32px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "32px"
-            }
-          },
-          "_params": {
-            "showHeader": true,
-            "showImages": true,
-            "showTitles": true,
-            "tabs": "5",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ultrasonido-obstetrico-3-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
-          },
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "<b>Ultrasonografista</b>",
-          "title1": "SIN PREPARACIÓN",
-          "title2": "SIN FILTROS",
-          "title3": "POCA EXPERIENCIA",
-          "title4": "SIN CÉDULA\r",
-          "title5": "SIN AUTORIZACIÓN",
-          "title6": "CONTACT FORMS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header5-3d\" aria-expanded=\"false\">Educación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header5-3d\" aria-expanded=\"false\">rigurosidad</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header5-3d\" aria-expanded=\"false\">Preparación</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header5-3d\" aria-expanded=\"false\">pruebas</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header5-3d\" aria-expanded=\"true\">certificación</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header5-3d\">Beautiful</a></li>",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "rubber-duck",
-              "family": "icon54-v3",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "send-money",
-              "family": "icon54",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "dismiss-award-badge",
-              "family": "icon54-v2",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "dismiss-user-2",
-              "family": "icon54-v4",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "error-mark",
-              "family": "icon54-v4",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "text1": "Para fines prácticos no existe una autoridad que verifique ni certifique que la persona que realiza ultrasonidos tenga los conocimientos necesarios para la realización de los mismos ni para su interpretación.",
-          "text2": "Para realizar un curso de ultrasonido solo necesita pagarlo y la calidad del curso dependerá del poder adquisitivo de quien lo realiza.",
-          "text3": "Un ultrasonografista habrá realizado al terminar su cuso un promedio de 150 ultrasonidos (dependiendo de la duración y calidad del curso) y bajo ninguna circunstancia PODRÁ interpretar ninguna otra modalidad de estudio.",
-          "text4": "Una vez terminado el curso, se les otorga un diploma sin ningún tipo de examinación y no cuentan con cédula profesional.",
-          "text5": "Para fines prácticos no existe una autoridad que verifique ni certifique que la persona que realiza ultrasonidos tenga los conocimientos necesarios para la realización de los mismos ni para su interpretación.",
-          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-3d"
         },
         {
           "_styles": {
@@ -1792,7 +1789,7 @@
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ecf0f1",
+            "bgColor": "#eeeeee",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"

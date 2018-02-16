@@ -804,16 +804,19 @@ blockquote {
   color: #ffffff;
   font-family: 'Poppins', sans-serif;
 }
+#features10-10 .mbr-section-text {
+  font-size: 20px;
+}
 #animated-bg1-19 .display-1 {
   font-weight: 700;
   text-transform: uppercase;
   margin-top: 40px;
 }
 #animated-bg1-19 H1 {
-  font-size: 32px;
+  font-size: 46px;
 }
 #animated-bg1-19 P {
-  font-size: 24px;
+  font-size: 20px;
 }
 #animated-bg1-19 .mbr-section-title {
   letter-spacing: 2px;
@@ -825,7 +828,6 @@ blockquote {
 }
 #features3-12 .mbr-section-subtitle {
   text-transform: uppercase;
-  letter-spacing: 2px;
   color: #3ea3e4;
 }
 #features3-12 .mbr-section-text {
@@ -872,6 +874,57 @@ blockquote {
 }
 #call4-1m .btn {
   font-size: 12px;
+}
+#content5-3e .mbr-section-title {
+  font-size: 36px;
+  text-align: center;
+  color: #000000;
+}
+#content5-3e P {
+  font-size: 20px;
+  text-align: center;
+  color: #333333;
+}
+#header5-3h .elements-content {
+  padding-bottom: 140px;
+}
+#header5-3h .mbr-section-subtitle {
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+#header5-3h .mbr-section-title,
+#header5-3h .tab-pane {
+  color: #fff;
+}
+#header5-3h .mbr-section-title {
+  margin-bottom: 60px;
+  font-size: 32px;
+}
+#header5-3h .nav-tabs {
+  margin-top: 90px;
+}
+#header5-3h .mbr-section-title B {
+  font-size: 32px;
+}
+#header5-3i .elements-content {
+  padding-bottom: 140px;
+}
+#header5-3i .mbr-section-subtitle {
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+#header5-3i .mbr-section-title,
+#header5-3i .tab-pane {
+  color: #fff;
+}
+#header5-3i .mbr-section-title {
+  margin-bottom: 60px;
+  font-size: 32px;
+}
+#header5-3i .nav-tabs {
+  margin-top: 90px;
 }
 #tabs2-1f P {
   text-align: center;
@@ -1008,63 +1061,6 @@ blockquote {
 #content3-2g .mbr-section-title,
 #content3-2g .mbr-section-subtitle {
   text-align: center;
-}
-#content5-37 .mbr-section-title {
-  font-size: 36px;
-  text-align: center;
-  color: #000000;
-}
-#content5-37 P {
-  font-size: 20px;
-  text-align: center;
-  color: #333333;
-}
-#header5-3c .elements-content {
-  padding-bottom: 140px;
-}
-#header5-3c .mbr-section-subtitle {
-  letter-spacing: 2px;
-  margin-bottom: 10px;
-  font-weight: 700;
-}
-#header5-3c .mbr-section-title,
-#header5-3c .tab-pane {
-  color: #fff;
-}
-#header5-3c .mbr-section-title {
-  margin-bottom: 60px;
-  font-size: 36px;
-}
-#header5-3c .nav-tabs {
-  margin-top: 90px;
-}
-#header5-3c .mbr-section-title B {
-  font-size: 36px;
-}
-#header5-3d .elements-content {
-  padding-bottom: 140px;
-}
-#header5-3d .mbr-section-subtitle {
-  letter-spacing: 2px;
-  margin-bottom: 10px;
-  font-weight: 700;
-}
-#header5-3d .mbr-section-title,
-#header5-3d .tab-pane {
-  color: #fff;
-}
-#header5-3d .mbr-section-title {
-  margin-bottom: 60px;
-  font-size: 32px;
-}
-#header5-3d .nav-tabs {
-  margin-top: 90px;
-}
-#header5-3d .mbr-section-title B {
-  font-size: 32px;
-}
-#header5-3d .mbr-section-title SPAN {
-  font-size: 32px;
 }
 #contacts2-2m .mbr-section-title {
   font-size: 18px;
