@@ -5,6 +5,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -821,24 +822,22 @@ blockquote {
 #animated-bg1-19 .mbr-section-title {
   letter-spacing: 2px;
 }
-#features3-12 .mbr-section-title {
+#features4-3n .mbr-section-title {
   font-weight: 700;
-  color: #3ea3e4;
-  font-size: 60px;
+  font-size: 46px;
+  color: #3498db;
 }
-#features3-12 .mbr-section-subtitle {
+#features4-3n .mbr-section-subtitle {
   text-transform: uppercase;
-  color: #3ea3e4;
+  letter-spacing: 2px;
+  color: #3498db;
 }
-#features3-12 .mbr-section-text {
-  color: #666666;
+#features4-3n .mbr-section-text {
+  color: #3498db;
+  text-align: center;
 }
-#features3-12 .mbr-section-title {
-  letter-spacing: 6px;
-  font-size: 45px;
-}
-#features3-12 .mbr-figure-background {
-  background: none;
+#features4-3n .mbr-section-text B {
+  font-family: 'Montserrat', sans-serif;
 }
 #content3-9 .mbr-section-title,
 #content3-9 .mbr-section-subtitle {
@@ -1074,9 +1073,6 @@ blockquote {
 }
 #form1-1w .mbr-section-subtitle {
   text-transform: uppercase;
-}
-#form1-1w .form-control-label {
-  color: undefined;
 }
 #form1-1w .mbr-section-title {
   color: #ffffff;
